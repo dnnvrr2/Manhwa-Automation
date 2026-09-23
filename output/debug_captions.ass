@@ -1,0 +1,521 @@
+﻿[Script Info]
+ScriptType: v4.00+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,TikTok Sans,64,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,50,50,960,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.72,0:00:00.80,Default,,0,0,0,,{\b700}{\c&H00FFFF&}IN{\c&HFFFFFF&} THE VAST
+Dialogue: 0,0:00:00.80,0:00:00.84,Default,,0,0,0,,{\b700}IN THE VAST
+Dialogue: 0,0:00:00.84,0:00:00.90,Default,,0,0,0,,{\b700}IN {\c&H00FFFF&}THE{\c&HFFFFFF&} VAST
+Dialogue: 0,0:00:00.90,0:00:00.96,Default,,0,0,0,,{\b700}IN THE VAST
+Dialogue: 0,0:00:00.96,0:00:01.30,Default,,0,0,0,,{\b700}IN THE {\c&H00FFFF&}VAST{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.36,0:00:01.82,Default,,0,0,0,,{\b700}{\c&H00FFFF&}DARKNESS{\c&HFFFFFF&} OF SPACE,
+Dialogue: 0,0:00:01.82,0:00:01.88,Default,,0,0,0,,{\b700}DARKNESS OF SPACE,
+Dialogue: 0,0:00:01.88,0:00:01.98,Default,,0,0,0,,{\b700}DARKNESS {\c&H00FFFF&}OF{\c&HFFFFFF&} SPACE,
+Dialogue: 0,0:00:01.98,0:00:02.10,Default,,0,0,0,,{\b700}DARKNESS OF SPACE,
+Dialogue: 0,0:00:02.10,0:00:02.50,Default,,0,0,0,,{\b700}DARKNESS OF {\c&H00FFFF&}SPACE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.00,0:00:03.06,Default,,0,0,0,,{\b700}{\c&H00FFFF&}A{\c&HFFFFFF&} PAIR OF
+Dialogue: 0,0:00:03.06,0:00:03.12,Default,,0,0,0,,{\b700}A PAIR OF
+Dialogue: 0,0:00:03.12,0:00:03.32,Default,,0,0,0,,{\b700}A {\c&H00FFFF&}PAIR{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:03.32,0:00:03.38,Default,,0,0,0,,{\b700}A PAIR OF
+Dialogue: 0,0:00:03.38,0:00:03.50,Default,,0,0,0,,{\b700}A PAIR {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.56,0:00:03.98,Default,,0,0,0,,{\b700}{\c&H00FFFF&}GLOWING{\c&HFFFFFF&} EYES STARE
+Dialogue: 0,0:00:03.98,0:00:04.08,Default,,0,0,0,,{\b700}GLOWING EYES STARE
+Dialogue: 0,0:00:04.08,0:00:04.44,Default,,0,0,0,,{\b700}GLOWING {\c&H00FFFF&}EYES{\c&HFFFFFF&} STARE
+Dialogue: 0,0:00:04.44,0:00:04.54,Default,,0,0,0,,{\b700}GLOWING EYES STARE
+Dialogue: 0,0:00:04.54,0:00:04.78,Default,,0,0,0,,{\b700}GLOWING EYES {\c&H00FFFF&}STARE{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.86,0:00:05.06,Default,,0,0,0,,{\b700}{\c&H00FFFF&}DOWN{\c&HFFFFFF&} AT THE
+Dialogue: 0,0:00:05.06,0:00:05.10,Default,,0,0,0,,{\b700}DOWN AT THE
+Dialogue: 0,0:00:05.10,0:00:05.16,Default,,0,0,0,,{\b700}DOWN {\c&H00FFFF&}AT{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:05.16,0:00:05.22,Default,,0,0,0,,{\b700}DOWN AT THE
+Dialogue: 0,0:00:05.22,0:00:05.30,Default,,0,0,0,,{\b700}DOWN AT {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.36,0:00:05.70,Default,,0,0,0,,{\b700}{\c&H00FFFF&}EARTH.{\c&HFFFFFF&} A CELESTIAL
+Dialogue: 0,0:00:05.70,0:00:06.44,Default,,0,0,0,,{\b700}EARTH. A CELESTIAL
+Dialogue: 0,0:00:06.44,0:00:06.48,Default,,0,0,0,,{\b700}EARTH. {\c&H00FFFF&}A{\c&HFFFFFF&} CELESTIAL
+Dialogue: 0,0:00:06.48,0:00:06.56,Default,,0,0,0,,{\b700}EARTH. A CELESTIAL
+Dialogue: 0,0:00:06.56,0:00:07.16,Default,,0,0,0,,{\b700}EARTH. A {\c&H00FFFF&}CELESTIAL{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.22,0:00:07.58,Default,,0,0,0,,{\b700}{\c&H00FFFF&}BEING{\c&HFFFFFF&} WATCHING.
+Dialogue: 0,0:00:07.58,0:00:08.12,Default,,0,0,0,,{\b700}BEING WATCHING.
+Dialogue: 0,0:00:08.12,0:00:08.60,Default,,0,0,0,,{\b700}BEING {\c&H00FFFF&}WATCHING.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.66,0:00:09.88,Default,,0,0,0,,{\b700}{\c&H00FFFF&}DOWN{\c&HFFFFFF&} BELOW,
+Dialogue: 0,0:00:09.88,0:00:09.92,Default,,0,0,0,,{\b700}DOWN BELOW,
+Dialogue: 0,0:00:09.92,0:00:10.30,Default,,0,0,0,,{\b700}DOWN {\c&H00FFFF&}BELOW,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.40,0:00:10.50,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} SKY ITSELF
+Dialogue: 0,0:00:10.50,0:00:10.58,Default,,0,0,0,,{\b700}THE SKY ITSELF
+Dialogue: 0,0:00:10.58,0:00:10.82,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}SKY{\c&HFFFFFF&} ITSELF
+Dialogue: 0,0:00:10.82,0:00:10.88,Default,,0,0,0,,{\b700}THE SKY ITSELF
+Dialogue: 0,0:00:10.88,0:00:11.38,Default,,0,0,0,,{\b700}THE SKY {\c&H00FFFF&}ITSELF{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.44,0:00:11.74,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SHOWS{\c&HFFFFFF&} THOSE EYES.
+Dialogue: 0,0:00:11.74,0:00:11.80,Default,,0,0,0,,{\b700}SHOWS THOSE EYES.
+Dialogue: 0,0:00:11.80,0:00:12.06,Default,,0,0,0,,{\b700}SHOWS {\c&H00FFFF&}THOSE{\c&HFFFFFF&} EYES.
+Dialogue: 0,0:00:12.06,0:00:12.18,Default,,0,0,0,,{\b700}SHOWS THOSE EYES.
+Dialogue: 0,0:00:12.18,0:00:12.52,Default,,0,0,0,,{\b700}SHOWS THOSE {\c&H00FFFF&}EYES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.18,0:00:13.48,Default,,0,0,0,,{\b700}{\c&H00FFFF&}PEOPLE{\c&HFFFFFF&} SCREAM AND
+Dialogue: 0,0:00:13.48,0:00:13.62,Default,,0,0,0,,{\b700}PEOPLE SCREAM AND
+Dialogue: 0,0:00:13.62,0:00:14.06,Default,,0,0,0,,{\b700}PEOPLE {\c&H00FFFF&}SCREAM{\c&HFFFFFF&} AND
+Dialogue: 0,0:00:14.06,0:00:14.10,Default,,0,0,0,,{\b700}PEOPLE SCREAM AND
+Dialogue: 0,0:00:14.10,0:00:14.26,Default,,0,0,0,,{\b700}PEOPLE SCREAM {\c&H00FFFF&}AND{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.34,0:00:14.52,Default,,0,0,0,,{\b700}{\c&H00FFFF&}RUN{\c&HFFFFFF&} IN PANIC,
+Dialogue: 0,0:00:14.52,0:00:14.58,Default,,0,0,0,,{\b700}RUN IN PANIC,
+Dialogue: 0,0:00:14.58,0:00:14.68,Default,,0,0,0,,{\b700}RUN {\c&H00FFFF&}IN{\c&HFFFFFF&} PANIC,
+Dialogue: 0,0:00:14.68,0:00:14.76,Default,,0,0,0,,{\b700}RUN IN PANIC,
+Dialogue: 0,0:00:14.76,0:00:15.22,Default,,0,0,0,,{\b700}RUN IN {\c&H00FFFF&}PANIC,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.08,0:00:16.48,Default,,0,0,0,,{\b700}{\c&H00FFFF&}EXCEPT{\c&HFFFFFF&} ONE MAN
+Dialogue: 0,0:00:16.48,0:00:16.58,Default,,0,0,0,,{\b700}EXCEPT ONE MAN
+Dialogue: 0,0:00:16.58,0:00:16.70,Default,,0,0,0,,{\b700}EXCEPT {\c&H00FFFF&}ONE{\c&HFFFFFF&} MAN
+Dialogue: 0,0:00:16.70,0:00:16.76,Default,,0,0,0,,{\b700}EXCEPT ONE MAN
+Dialogue: 0,0:00:16.76,0:00:17.32,Default,,0,0,0,,{\b700}EXCEPT ONE {\c&H00FFFF&}MAN{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.42,0:00:17.82,Default,,0,0,0,,{\b700}{\c&H00FFFF&}STANDING{\c&HFFFFFF&} CALM IN
+Dialogue: 0,0:00:17.82,0:00:17.88,Default,,0,0,0,,{\b700}STANDING CALM IN
+Dialogue: 0,0:00:17.88,0:00:18.20,Default,,0,0,0,,{\b700}STANDING {\c&H00FFFF&}CALM{\c&HFFFFFF&} IN
+Dialogue: 0,0:00:18.20,0:00:18.24,Default,,0,0,0,,{\b700}STANDING CALM IN
+Dialogue: 0,0:00:18.24,0:00:18.30,Default,,0,0,0,,{\b700}STANDING CALM {\c&H00FFFF&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.34,0:00:18.42,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} MIDDLE OF
+Dialogue: 0,0:00:18.42,0:00:18.46,Default,,0,0,0,,{\b700}THE MIDDLE OF
+Dialogue: 0,0:00:18.46,0:00:18.68,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}MIDDLE{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:18.68,0:00:18.74,Default,,0,0,0,,{\b700}THE MIDDLE OF
+Dialogue: 0,0:00:18.74,0:00:18.80,Default,,0,0,0,,{\b700}THE MIDDLE {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.84,0:00:18.92,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} STREET,
+Dialogue: 0,0:00:18.92,0:00:19.00,Default,,0,0,0,,{\b700}THE STREET,
+Dialogue: 0,0:00:19.00,0:00:19.34,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}STREET,{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.76,0:00:20.08,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HOLDING{\c&HFFFFFF&} HIS PLASTIC
+Dialogue: 0,0:00:20.08,0:00:20.10,Default,,0,0,0,,{\b700}HOLDING HIS PLASTIC
+Dialogue: 0,0:00:20.10,0:00:20.24,Default,,0,0,0,,{\b700}HOLDING {\c&H00FFFF&}HIS{\c&HFFFFFF&} PLASTIC
+Dialogue: 0,0:00:20.24,0:00:20.28,Default,,0,0,0,,{\b700}HOLDING HIS PLASTIC
+Dialogue: 0,0:00:20.28,0:00:20.70,Default,,0,0,0,,{\b700}HOLDING HIS {\c&H00FFFF&}PLASTIC{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.76,0:00:21.20,Default,,0,0,0,,{\b700}{\c&H00FFFF&}BAG.{\c&HFFFFFF&} THEN A
+Dialogue: 0,0:00:21.20,0:00:22.06,Default,,0,0,0,,{\b700}BAG. THEN A
+Dialogue: 0,0:00:22.06,0:00:22.18,Default,,0,0,0,,{\b700}BAG. {\c&H00FFFF&}THEN{\c&HFFFFFF&} A
+Dialogue: 0,0:00:22.18,0:00:22.22,Default,,0,0,0,,{\b700}BAG. THEN A
+Dialogue: 0,0:00:22.22,0:00:22.28,Default,,0,0,0,,{\b700}BAG. THEN {\c&H00FFFF&}A{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.34,0:00:22.78,Default,,0,0,0,,{\b700}{\c&H00FFFF&}STRANGER{\c&HFFFFFF&} APPEARS ON
+Dialogue: 0,0:00:22.78,0:00:22.86,Default,,0,0,0,,{\b700}STRANGER APPEARS ON
+Dialogue: 0,0:00:22.86,0:00:23.28,Default,,0,0,0,,{\b700}STRANGER {\c&H00FFFF&}APPEARS{\c&HFFFFFF&} ON
+Dialogue: 0,0:00:23.28,0:00:23.34,Default,,0,0,0,,{\b700}STRANGER APPEARS ON
+Dialogue: 0,0:00:23.34,0:00:23.44,Default,,0,0,0,,{\b700}STRANGER APPEARS {\c&H00FFFF&}ON{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.50,0:00:23.72,Default,,0,0,0,,{\b700}{\c&H00FFFF&}EVERY{\c&HFFFFFF&} SCREEN.
+Dialogue: 0,0:00:23.72,0:00:23.88,Default,,0,0,0,,{\b700}EVERY SCREEN.
+Dialogue: 0,0:00:23.88,0:00:24.30,Default,,0,0,0,,{\b700}EVERY {\c&H00FFFF&}SCREEN.{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.90,0:00:25.00,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HE{\c&HFFFFFF&} SAYS HE
+Dialogue: 0,0:00:25.00,0:00:25.08,Default,,0,0,0,,{\b700}HE SAYS HE
+Dialogue: 0,0:00:25.08,0:00:25.36,Default,,0,0,0,,{\b700}HE {\c&H00FFFF&}SAYS{\c&HFFFFFF&} HE
+Dialogue: 0,0:00:25.36,0:00:25.44,Default,,0,0,0,,{\b700}HE SAYS HE
+Dialogue: 0,0:00:25.44,0:00:25.58,Default,,0,0,0,,{\b700}HE SAYS {\c&H00FFFF&}HE{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.62,0:00:25.78,Default,,0,0,0,,{\b700}{\c&H00FFFF&}WILL{\c&HFFFFFF&} HANDLE IT.
+Dialogue: 0,0:00:25.78,0:00:25.82,Default,,0,0,0,,{\b700}WILL HANDLE IT.
+Dialogue: 0,0:00:25.82,0:00:26.14,Default,,0,0,0,,{\b700}WILL {\c&H00FFFF&}HANDLE{\c&HFFFFFF&} IT.
+Dialogue: 0,0:00:26.14,0:00:26.22,Default,,0,0,0,,{\b700}WILL HANDLE IT.
+Dialogue: 0,0:00:26.22,0:00:26.36,Default,,0,0,0,,{\b700}WILL HANDLE {\c&H00FFFF&}IT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.34,0:00:27.44,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HE{\c&HFFFFFF&} STANDS ON
+Dialogue: 0,0:00:27.44,0:00:27.52,Default,,0,0,0,,{\b700}HE STANDS ON
+Dialogue: 0,0:00:27.52,0:00:27.86,Default,,0,0,0,,{\b700}HE {\c&H00FFFF&}STANDS{\c&HFFFFFF&} ON
+Dialogue: 0,0:00:27.86,0:00:27.92,Default,,0,0,0,,{\b700}HE STANDS ON
+Dialogue: 0,0:00:27.92,0:00:27.98,Default,,0,0,0,,{\b700}HE STANDS {\c&H00FFFF&}ON{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.02,0:00:28.10,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} PEAK OF
+Dialogue: 0,0:00:28.10,0:00:28.16,Default,,0,0,0,,{\b700}THE PEAK OF
+Dialogue: 0,0:00:28.16,0:00:28.34,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}PEAK{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:28.34,0:00:28.38,Default,,0,0,0,,{\b700}THE PEAK OF
+Dialogue: 0,0:00:28.38,0:00:28.48,Default,,0,0,0,,{\b700}THE PEAK {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.52,0:00:28.74,Default,,0,0,0,,{\b700}{\c&H00FFFF&}MOUNT{\c&HFFFFFF&} EVEREST,
+Dialogue: 0,0:00:28.74,0:00:28.84,Default,,0,0,0,,{\b700}MOUNT EVEREST,
+Dialogue: 0,0:00:28.84,0:00:29.22,Default,,0,0,0,,{\b700}MOUNT {\c&H00FFFF&}EVEREST,{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.30,0:00:29.82,Default,,0,0,0,,{\b700}{\c&H00FFFF&}PREPARING{\c&HFFFFFF&} HIS ATTACK.
+Dialogue: 0,0:00:29.82,0:00:29.86,Default,,0,0,0,,{\b700}PREPARING HIS ATTACK.
+Dialogue: 0,0:00:29.86,0:00:30.00,Default,,0,0,0,,{\b700}PREPARING {\c&H00FFFF&}HIS{\c&HFFFFFF&} ATTACK.
+Dialogue: 0,0:00:30.00,0:00:30.06,Default,,0,0,0,,{\b700}PREPARING HIS ATTACK.
+Dialogue: 0,0:00:30.06,0:00:30.60,Default,,0,0,0,,{\b700}PREPARING HIS {\c&H00FFFF&}ATTACK.{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.14,0:00:31.22,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HE{\c&HFFFFFF&} CALLS FOR
+Dialogue: 0,0:00:31.22,0:00:31.28,Default,,0,0,0,,{\b700}HE CALLS FOR
+Dialogue: 0,0:00:31.28,0:00:31.54,Default,,0,0,0,,{\b700}HE {\c&H00FFFF&}CALLS{\c&HFFFFFF&} FOR
+Dialogue: 0,0:00:31.54,0:00:31.58,Default,,0,0,0,,{\b700}HE CALLS FOR
+Dialogue: 0,0:00:31.58,0:00:31.68,Default,,0,0,0,,{\b700}HE CALLS {\c&H00FFFF&}FOR{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.72,0:00:31.82,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HIS{\c&HFFFFFF&} PARTNER.
+Dialogue: 0,0:00:31.82,0:00:31.90,Default,,0,0,0,,{\b700}HIS PARTNER.
+Dialogue: 0,0:00:31.90,0:00:32.44,Default,,0,0,0,,{\b700}HIS {\c&H00FFFF&}PARTNER.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.00,0:00:33.14,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SHE'S{\c&HFFFFFF&} A GIANT
+Dialogue: 0,0:00:33.14,0:00:33.22,Default,,0,0,0,,{\b700}SHE'S A GIANT
+Dialogue: 0,0:00:33.22,0:00:33.30,Default,,0,0,0,,{\b700}SHE'S {\c&H00FFFF&}A{\c&HFFFFFF&} GIANT
+Dialogue: 0,0:00:33.30,0:00:33.42,Default,,0,0,0,,{\b700}SHE'S A GIANT
+Dialogue: 0,0:00:33.42,0:00:33.78,Default,,0,0,0,,{\b700}SHE'S A {\c&H00FFFF&}GIANT{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.84,0:00:34.12,Default,,0,0,0,,{\b700}{\c&H00FFFF&}WOMAN,{\c&HFFFFFF&} 10,000 METERS
+Dialogue: 0,0:00:34.12,0:00:34.64,Default,,0,0,0,,{\b700}WOMAN, 10,000 METERS
+Dialogue: 0,0:00:34.64,0:00:35.38,Default,,0,0,0,,{\b700}WOMAN, {\c&H00FFFF&}10,000{\c&HFFFFFF&} METERS
+Dialogue: 0,0:00:35.38,0:00:35.44,Default,,0,0,0,,{\b700}WOMAN, 10,000 METERS
+Dialogue: 0,0:00:35.44,0:00:35.74,Default,,0,0,0,,{\b700}WOMAN, 10,000 {\c&H00FFFF&}METERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.82,0:00:36.16,Default,,0,0,0,,{\b700}{\c&H00FFFF&}TALL.{\c&HFFFFFF&} AFTER YEARS
+Dialogue: 0,0:00:36.16,0:00:36.94,Default,,0,0,0,,{\b700}TALL. AFTER YEARS
+Dialogue: 0,0:00:36.94,0:00:37.22,Default,,0,0,0,,{\b700}TALL. {\c&H00FFFF&}AFTER{\c&HFFFFFF&} YEARS
+Dialogue: 0,0:00:37.22,0:00:37.30,Default,,0,0,0,,{\b700}TALL. AFTER YEARS
+Dialogue: 0,0:00:37.30,0:00:37.62,Default,,0,0,0,,{\b700}TALL. AFTER {\c&H00FFFF&}YEARS{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.68,0:00:37.76,Default,,0,0,0,,{\b700}{\c&H00FFFF&}OF{\c&HFFFFFF&} NEVER BEING
+Dialogue: 0,0:00:37.76,0:00:37.80,Default,,0,0,0,,{\b700}OF NEVER BEING
+Dialogue: 0,0:00:37.80,0:00:38.04,Default,,0,0,0,,{\b700}OF {\c&H00FFFF&}NEVER{\c&HFFFFFF&} BEING
+Dialogue: 0,0:00:38.04,0:00:38.08,Default,,0,0,0,,{\b700}OF NEVER BEING
+Dialogue: 0,0:00:38.08,0:00:38.36,Default,,0,0,0,,{\b700}OF NEVER {\c&H00FFFF&}BEING{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.44,0:00:38.72,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SEEN,{\c&HFFFFFF&} SHE FINALLY
+Dialogue: 0,0:00:38.72,0:00:39.22,Default,,0,0,0,,{\b700}SEEN, SHE FINALLY
+Dialogue: 0,0:00:39.22,0:00:39.38,Default,,0,0,0,,{\b700}SEEN, {\c&H00FFFF&}SHE{\c&HFFFFFF&} FINALLY
+Dialogue: 0,0:00:39.38,0:00:39.46,Default,,0,0,0,,{\b700}SEEN, SHE FINALLY
+Dialogue: 0,0:00:39.46,0:00:39.84,Default,,0,0,0,,{\b700}SEEN, SHE {\c&H00FFFF&}FINALLY{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.90,0:00:40.20,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SHOWS{\c&HFFFFFF&} HERSELF.
+Dialogue: 0,0:00:40.20,0:00:40.22,Default,,0,0,0,,{\b700}SHOWS HERSELF.
+Dialogue: 0,0:00:40.22,0:00:40.78,Default,,0,0,0,,{\b700}SHOWS {\c&H00FFFF&}HERSELF.{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.58,0:00:41.68,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} HEAT OF
+Dialogue: 0,0:00:41.68,0:00:41.72,Default,,0,0,0,,{\b700}THE HEAT OF
+Dialogue: 0,0:00:41.72,0:00:41.82,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}HEAT{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:41.82,0:00:41.86,Default,,0,0,0,,{\b700}THE HEAT OF
+Dialogue: 0,0:00:41.86,0:00:41.92,Default,,0,0,0,,{\b700}THE HEAT {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.98,0:00:42.06,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} EARTH IS
+Dialogue: 0,0:00:42.06,0:00:42.12,Default,,0,0,0,,{\b700}THE EARTH IS
+Dialogue: 0,0:00:42.12,0:00:42.30,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}EARTH{\c&HFFFFFF&} IS
+Dialogue: 0,0:00:42.30,0:00:42.36,Default,,0,0,0,,{\b700}THE EARTH IS
+Dialogue: 0,0:00:42.36,0:00:42.46,Default,,0,0,0,,{\b700}THE EARTH {\c&H00FFFF&}IS{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.50,0:00:42.90,Default,,0,0,0,,{\b700}{\c&H00FFFF&}BECOMING{\c&HFFFFFF&} UNBEARABLE,
+Dialogue: 0,0:00:42.90,0:00:42.96,Default,,0,0,0,,{\b700}BECOMING UNBEARABLE,
+Dialogue: 0,0:00:42.96,0:00:43.62,Default,,0,0,0,,{\b700}BECOMING {\c&H00FFFF&}UNBEARABLE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.02,0:00:44.12,Default,,0,0,0,,{\b700}{\c&H00FFFF&}AND{\c&HFFFFFF&} SHE WANTS
+Dialogue: 0,0:00:44.12,0:00:44.18,Default,,0,0,0,,{\b700}AND SHE WANTS
+Dialogue: 0,0:00:44.18,0:00:44.32,Default,,0,0,0,,{\b700}AND {\c&H00FFFF&}SHE{\c&HFFFFFF&} WANTS
+Dialogue: 0,0:00:44.32,0:00:44.36,Default,,0,0,0,,{\b700}AND SHE WANTS
+Dialogue: 0,0:00:44.36,0:00:44.56,Default,,0,0,0,,{\b700}AND SHE {\c&H00FFFF&}WANTS{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.60,0:00:44.70,Default,,0,0,0,,{\b700}{\c&H00FFFF&}TO{\c&HFFFFFF&} END THIS
+Dialogue: 0,0:00:44.70,0:00:44.76,Default,,0,0,0,,{\b700}TO END THIS
+Dialogue: 0,0:00:44.76,0:00:44.94,Default,,0,0,0,,{\b700}TO {\c&H00FFFF&}END{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:44.94,0:00:45.00,Default,,0,0,0,,{\b700}TO END THIS
+Dialogue: 0,0:00:45.00,0:00:45.20,Default,,0,0,0,,{\b700}TO END {\c&H00FFFF&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.26,0:00:45.74,Default,,0,0,0,,{\b700}{\c&H00FFFF&}QUICKLY.{\c&HFFFFFF&} HE RAISES
+Dialogue: 0,0:00:45.74,0:00:46.48,Default,,0,0,0,,{\b700}QUICKLY. HE RAISES
+Dialogue: 0,0:00:46.48,0:00:46.58,Default,,0,0,0,,{\b700}QUICKLY. {\c&H00FFFF&}HE{\c&HFFFFFF&} RAISES
+Dialogue: 0,0:00:46.58,0:00:46.62,Default,,0,0,0,,{\b700}QUICKLY. HE RAISES
+Dialogue: 0,0:00:46.62,0:00:46.94,Default,,0,0,0,,{\b700}QUICKLY. HE {\c&H00FFFF&}RAISES{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.00,0:00:47.04,Default,,0,0,0,,{\b700}{\c&H00FFFF&}A{\c&HFFFFFF&} HANDFUL OF
+Dialogue: 0,0:00:47.04,0:00:47.10,Default,,0,0,0,,{\b700}A HANDFUL OF
+Dialogue: 0,0:00:47.10,0:00:47.52,Default,,0,0,0,,{\b700}A {\c&H00FFFF&}HANDFUL{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:47.52,0:00:47.56,Default,,0,0,0,,{\b700}A HANDFUL OF
+Dialogue: 0,0:00:47.56,0:00:47.66,Default,,0,0,0,,{\b700}A HANDFUL {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.72,0:00:48.08,Default,,0,0,0,,{\b700}{\c&H00FFFF&}GLOWING{\c&HFFFFFF&} ORBS,
+Dialogue: 0,0:00:48.08,0:00:48.18,Default,,0,0,0,,{\b700}GLOWING ORBS,
+Dialogue: 0,0:00:48.18,0:00:48.50,Default,,0,0,0,,{\b700}GLOWING {\c&H00FFFF&}ORBS,{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.58,0:00:48.80,Default,,0,0,0,,{\b700}{\c&H00FFFF&}READY{\c&HFFFFFF&} TO THROW
+Dialogue: 0,0:00:48.80,0:00:48.84,Default,,0,0,0,,{\b700}READY TO THROW
+Dialogue: 0,0:00:48.84,0:00:48.92,Default,,0,0,0,,{\b700}READY {\c&H00FFFF&}TO{\c&HFFFFFF&} THROW
+Dialogue: 0,0:00:48.92,0:00:48.96,Default,,0,0,0,,{\b700}READY TO THROW
+Dialogue: 0,0:00:48.96,0:00:49.24,Default,,0,0,0,,{\b700}READY TO {\c&H00FFFF&}THROW{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.28,0:00:49.50,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THEM.{\c&HFFFFFF&} THEIR PURPOSE
+Dialogue: 0,0:00:49.50,0:00:50.10,Default,,0,0,0,,{\b700}THEM. THEIR PURPOSE
+Dialogue: 0,0:00:50.10,0:00:50.24,Default,,0,0,0,,{\b700}THEM. {\c&H00FFFF&}THEIR{\c&HFFFFFF&} PURPOSE
+Dialogue: 0,0:00:50.24,0:00:50.30,Default,,0,0,0,,{\b700}THEM. THEIR PURPOSE
+Dialogue: 0,0:00:50.30,0:00:50.70,Default,,0,0,0,,{\b700}THEM. THEIR {\c&H00FFFF&}PURPOSE{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.76,0:00:50.86,Default,,0,0,0,,{\b700}{\c&H00FFFF&}IS{\c&HFFFFFF&} TO GRANT
+Dialogue: 0,0:00:50.86,0:00:50.90,Default,,0,0,0,,{\b700}IS TO GRANT
+Dialogue: 0,0:00:50.90,0:00:51.00,Default,,0,0,0,,{\b700}IS {\c&H00FFFF&}TO{\c&HFFFFFF&} GRANT
+Dialogue: 0,0:00:51.00,0:00:51.06,Default,,0,0,0,,{\b700}IS TO GRANT
+Dialogue: 0,0:00:51.06,0:00:51.28,Default,,0,0,0,,{\b700}IS TO {\c&H00FFFF&}GRANT{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.32,0:00:51.46,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER{\c&HFFFFFF&} POWER.
+Dialogue: 0,0:00:51.46,0:00:51.52,Default,,0,0,0,,{\b700}HER POWER.
+Dialogue: 0,0:00:51.52,0:00:51.96,Default,,0,0,0,,{\b700}HER {\c&H00FFFF&}POWER.{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.68,0:00:52.78,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} ORBS BEGIN
+Dialogue: 0,0:00:52.78,0:00:52.86,Default,,0,0,0,,{\b700}THE ORBS BEGIN
+Dialogue: 0,0:00:52.86,0:00:53.16,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}ORBS{\c&HFFFFFF&} BEGIN
+Dialogue: 0,0:00:53.16,0:00:53.20,Default,,0,0,0,,{\b700}THE ORBS BEGIN
+Dialogue: 0,0:00:53.20,0:00:53.52,Default,,0,0,0,,{\b700}THE ORBS {\c&H00FFFF&}BEGIN{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.58,0:00:53.92,Default,,0,0,0,,{\b700}{\c&H00FFFF&}LINKING{\c&HFFFFFF&} WITH HER.
+Dialogue: 0,0:00:53.92,0:00:53.96,Default,,0,0,0,,{\b700}LINKING WITH HER.
+Dialogue: 0,0:00:53.96,0:00:54.10,Default,,0,0,0,,{\b700}LINKING {\c&H00FFFF&}WITH{\c&HFFFFFF&} HER.
+Dialogue: 0,0:00:54.10,0:00:54.12,Default,,0,0,0,,{\b700}LINKING WITH HER.
+Dialogue: 0,0:00:54.12,0:00:54.38,Default,,0,0,0,,{\b700}LINKING WITH {\c&H00FFFF&}HER.{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.92,0:00:55.00,Default,,0,0,0,,{\b700}{\c&H00FFFF&}ONE{\c&HFFFFFF&} ATTACHES TO
+Dialogue: 0,0:00:55.00,0:00:55.06,Default,,0,0,0,,{\b700}ONE ATTACHES TO
+Dialogue: 0,0:00:55.06,0:00:55.54,Default,,0,0,0,,{\b700}ONE {\c&H00FFFF&}ATTACHES{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:55.54,0:00:55.58,Default,,0,0,0,,{\b700}ONE ATTACHES TO
+Dialogue: 0,0:00:55.58,0:00:55.66,Default,,0,0,0,,{\b700}ONE ATTACHES {\c&H00FFFF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.70,0:00:55.86,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER{\c&HFFFFFF&} WRIST,
+Dialogue: 0,0:00:55.86,0:00:55.88,Default,,0,0,0,,{\b700}HER WRIST,
+Dialogue: 0,0:00:55.88,0:00:56.26,Default,,0,0,0,,{\b700}HER {\c&H00FFFF&}WRIST,{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.66,0:00:57.00,Default,,0,0,0,,{\b700}{\c&H00FFFF&}FORMING{\c&HFFFFFF&} ARMOR AND
+Dialogue: 0,0:00:57.00,0:00:57.10,Default,,0,0,0,,{\b700}FORMING ARMOR AND
+Dialogue: 0,0:00:57.10,0:00:57.50,Default,,0,0,0,,{\b700}FORMING {\c&H00FFFF&}ARMOR{\c&HFFFFFF&} AND
+Dialogue: 0,0:00:57.50,0:00:57.58,Default,,0,0,0,,{\b700}FORMING ARMOR AND
+Dialogue: 0,0:00:57.58,0:00:57.66,Default,,0,0,0,,{\b700}FORMING ARMOR {\c&H00FFFF&}AND{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.72,0:00:57.78,Default,,0,0,0,,{\b700}{\c&H00FFFF&}A{\c&HFFFFFF&} WEAPON AROUND
+Dialogue: 0,0:00:57.78,0:00:57.84,Default,,0,0,0,,{\b700}A WEAPON AROUND
+Dialogue: 0,0:00:57.84,0:00:58.12,Default,,0,0,0,,{\b700}A {\c&H00FFFF&}WEAPON{\c&HFFFFFF&} AROUND
+Dialogue: 0,0:00:58.12,0:00:58.20,Default,,0,0,0,,{\b700}A WEAPON AROUND
+Dialogue: 0,0:00:58.20,0:00:58.56,Default,,0,0,0,,{\b700}A WEAPON {\c&H00FFFF&}AROUND{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.58,0:00:58.74,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER.{\c&HFFFFFF&} SHE LAUNCHES
+Dialogue: 0,0:00:58.74,0:00:59.46,Default,,0,0,0,,{\b700}HER. SHE LAUNCHES
+Dialogue: 0,0:00:59.46,0:00:59.60,Default,,0,0,0,,{\b700}HER. {\c&H00FFFF&}SHE{\c&HFFFFFF&} LAUNCHES
+Dialogue: 0,0:00:59.60,0:00:59.64,Default,,0,0,0,,{\b700}HER. SHE LAUNCHES
+Dialogue: 0,0:00:59.64,0:01:00.02,Default,,0,0,0,,{\b700}HER. SHE {\c&H00FFFF&}LAUNCHES{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.04,0:01:00.44,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HERSELF{\c&HFFFFFF&} INTO THE
+Dialogue: 0,0:01:00.44,0:01:00.50,Default,,0,0,0,,{\b700}HERSELF INTO THE
+Dialogue: 0,0:01:00.50,0:01:00.64,Default,,0,0,0,,{\b700}HERSELF {\c&H00FFFF&}INTO{\c&HFFFFFF&} THE
+Dialogue: 0,0:01:00.64,0:01:00.68,Default,,0,0,0,,{\b700}HERSELF INTO THE
+Dialogue: 0,0:01:00.68,0:01:00.78,Default,,0,0,0,,{\b700}HERSELF INTO {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.88,0:01:01.22,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SKY,{\c&HFFFFFF&} CHARGING STRAIGHT
+Dialogue: 0,0:01:01.22,0:01:01.38,Default,,0,0,0,,{\b700}SKY, CHARGING STRAIGHT
+Dialogue: 0,0:01:01.38,0:01:01.80,Default,,0,0,0,,{\b700}SKY, {\c&H00FFFF&}CHARGING{\c&HFFFFFF&} STRAIGHT
+Dialogue: 0,0:01:01.80,0:01:01.92,Default,,0,0,0,,{\b700}SKY, CHARGING STRAIGHT
+Dialogue: 0,0:01:01.92,0:01:02.22,Default,,0,0,0,,{\b700}SKY, CHARGING {\c&H00FFFF&}STRAIGHT{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.26,0:01:02.36,Default,,0,0,0,,{\b700}{\c&H00FFFF&}FOR{\c&HFFFFFF&} THE CELESTIAL
+Dialogue: 0,0:01:02.36,0:01:02.40,Default,,0,0,0,,{\b700}FOR THE CELESTIAL
+Dialogue: 0,0:01:02.40,0:01:02.48,Default,,0,0,0,,{\b700}FOR {\c&H00FFFF&}THE{\c&HFFFFFF&} CELESTIAL
+Dialogue: 0,0:01:02.48,0:01:02.52,Default,,0,0,0,,{\b700}FOR THE CELESTIAL
+Dialogue: 0,0:01:02.52,0:01:03.10,Default,,0,0,0,,{\b700}FOR THE {\c&H00FFFF&}CELESTIAL{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.16,0:01:03.60,Default,,0,0,0,,{\b700}{\c&H00FFFF&}BEING.{\c&HFFFFFF&} DOWN BELOW,
+Dialogue: 0,0:01:03.60,0:01:04.16,Default,,0,0,0,,{\b700}BEING. DOWN BELOW,
+Dialogue: 0,0:01:04.16,0:01:04.38,Default,,0,0,0,,{\b700}BEING. {\c&H00FFFF&}DOWN{\c&HFFFFFF&} BELOW,
+Dialogue: 0,0:01:04.38,0:01:04.42,Default,,0,0,0,,{\b700}BEING. DOWN BELOW,
+Dialogue: 0,0:01:04.42,0:01:04.78,Default,,0,0,0,,{\b700}BEING. DOWN {\c&H00FFFF&}BELOW,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.90,0:01:05.04,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER{\c&HFFFFFF&} PARTNER WATCHES,
+Dialogue: 0,0:01:05.04,0:01:05.08,Default,,0,0,0,,{\b700}HER PARTNER WATCHES,
+Dialogue: 0,0:01:05.08,0:01:05.46,Default,,0,0,0,,{\b700}HER {\c&H00FFFF&}PARTNER{\c&HFFFFFF&} WATCHES,
+Dialogue: 0,0:01:05.46,0:01:05.50,Default,,0,0,0,,{\b700}HER PARTNER WATCHES,
+Dialogue: 0,0:01:05.50,0:01:05.96,Default,,0,0,0,,{\b700}HER PARTNER {\c&H00FFFF&}WATCHES,{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.22,0:01:07.02,Default,,0,0,0,,{\b700}{\c&H00FFFF&}ASTONISHED.{\c&HFFFFFF&} THEN A
+Dialogue: 0,0:01:07.02,0:01:07.72,Default,,0,0,0,,{\b700}ASTONISHED. THEN A
+Dialogue: 0,0:01:07.72,0:01:07.82,Default,,0,0,0,,{\b700}ASTONISHED. {\c&H00FFFF&}THEN{\c&HFFFFFF&} A
+Dialogue: 0,0:01:07.82,0:01:07.88,Default,,0,0,0,,{\b700}ASTONISHED. THEN A
+Dialogue: 0,0:01:07.88,0:01:07.96,Default,,0,0,0,,{\b700}ASTONISHED. THEN {\c&H00FFFF&}A{\c&HFFFFFF&}
+Dialogue: 0,0:01:08.04,0:01:08.42,Default,,0,0,0,,{\b700}{\c&H00FFFF&}FINGER{\c&HFFFFFF&} PIERCES THROUGH
+Dialogue: 0,0:01:08.42,0:01:08.48,Default,,0,0,0,,{\b700}FINGER PIERCES THROUGH
+Dialogue: 0,0:01:08.48,0:01:08.90,Default,,0,0,0,,{\b700}FINGER {\c&H00FFFF&}PIERCES{\c&HFFFFFF&} THROUGH
+Dialogue: 0,0:01:08.90,0:01:08.94,Default,,0,0,0,,{\b700}FINGER PIERCES THROUGH
+Dialogue: 0,0:01:08.94,0:01:09.10,Default,,0,0,0,,{\b700}FINGER PIERCES {\c&H00FFFF&}THROUGH{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.14,0:01:09.22,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} SKY.
+Dialogue: 0,0:01:09.22,0:01:09.30,Default,,0,0,0,,{\b700}THE SKY.
+Dialogue: 0,0:01:09.30,0:01:09.70,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}SKY.{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.26,0:01:10.32,Default,,0,0,0,,{\b700}{\c&H00FFFF&}IT{\c&HFFFFFF&} IS MANY
+Dialogue: 0,0:01:10.32,0:01:10.38,Default,,0,0,0,,{\b700}IT IS MANY
+Dialogue: 0,0:01:10.38,0:01:10.52,Default,,0,0,0,,{\b700}IT {\c&H00FFFF&}IS{\c&HFFFFFF&} MANY
+Dialogue: 0,0:01:10.52,0:01:10.58,Default,,0,0,0,,{\b700}IT IS MANY
+Dialogue: 0,0:01:10.58,0:01:10.82,Default,,0,0,0,,{\b700}IT IS {\c&H00FFFF&}MANY{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.88,0:01:11.24,Default,,0,0,0,,{\b700}{\c&H00FFFF&}TIMES{\c&HFFFFFF&} LARGER THAN
+Dialogue: 0,0:01:11.24,0:01:11.36,Default,,0,0,0,,{\b700}TIMES LARGER THAN
+Dialogue: 0,0:01:11.36,0:01:11.78,Default,,0,0,0,,{\b700}TIMES {\c&H00FFFF&}LARGER{\c&HFFFFFF&} THAN
+Dialogue: 0,0:01:11.78,0:01:11.82,Default,,0,0,0,,{\b700}TIMES LARGER THAN
+Dialogue: 0,0:01:11.82,0:01:11.92,Default,,0,0,0,,{\b700}TIMES LARGER {\c&H00FFFF&}THAN{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.96,0:01:12.06,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} GIANT WOMAN
+Dialogue: 0,0:01:12.06,0:01:12.12,Default,,0,0,0,,{\b700}THE GIANT WOMAN
+Dialogue: 0,0:01:12.12,0:01:12.42,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}GIANT{\c&HFFFFFF&} WOMAN
+Dialogue: 0,0:01:12.42,0:01:12.46,Default,,0,0,0,,{\b700}THE GIANT WOMAN
+Dialogue: 0,0:01:12.46,0:01:12.68,Default,,0,0,0,,{\b700}THE GIANT {\c&H00FFFF&}WOMAN{\c&HFFFFFF&}
+Dialogue: 0,0:01:12.70,0:01:13.26,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HERSELF.{\c&HFFFFFF&} IT WAS
+Dialogue: 0,0:01:13.26,0:01:13.92,Default,,0,0,0,,{\b700}HERSELF. IT WAS
+Dialogue: 0,0:01:13.92,0:01:14.00,Default,,0,0,0,,{\b700}HERSELF. {\c&H00FFFF&}IT{\c&HFFFFFF&} WAS
+Dialogue: 0,0:01:14.00,0:01:14.04,Default,,0,0,0,,{\b700}HERSELF. IT WAS
+Dialogue: 0,0:01:14.04,0:01:14.16,Default,,0,0,0,,{\b700}HERSELF. IT {\c&H00FFFF&}WAS{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.24,0:01:14.36,Default,,0,0,0,,{\b700}{\c&H00FFFF&}AS{\c&HFFFFFF&} SIMPLE AS
+Dialogue: 0,0:01:14.36,0:01:14.44,Default,,0,0,0,,{\b700}AS SIMPLE AS
+Dialogue: 0,0:01:14.44,0:01:14.70,Default,,0,0,0,,{\b700}AS {\c&H00FFFF&}SIMPLE{\c&HFFFFFF&} AS
+Dialogue: 0,0:01:14.70,0:01:14.78,Default,,0,0,0,,{\b700}AS SIMPLE AS
+Dialogue: 0,0:01:14.78,0:01:14.90,Default,,0,0,0,,{\b700}AS SIMPLE {\c&H00FFFF&}AS{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.98,0:01:15.28,Default,,0,0,0,,{\b700}{\c&H00FFFF&}CRUSHING{\c&HFFFFFF&} AN ANT.
+Dialogue: 0,0:01:15.28,0:01:15.34,Default,,0,0,0,,{\b700}CRUSHING AN ANT.
+Dialogue: 0,0:01:15.34,0:01:15.42,Default,,0,0,0,,{\b700}CRUSHING {\c&H00FFFF&}AN{\c&HFFFFFF&} ANT.
+Dialogue: 0,0:01:15.42,0:01:15.50,Default,,0,0,0,,{\b700}CRUSHING AN ANT.
+Dialogue: 0,0:01:15.50,0:01:15.84,Default,,0,0,0,,{\b700}CRUSHING AN {\c&H00FFFF&}ANT.{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.58,0:01:16.66,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} MAN WITH
+Dialogue: 0,0:01:16.66,0:01:16.72,Default,,0,0,0,,{\b700}THE MAN WITH
+Dialogue: 0,0:01:16.72,0:01:16.90,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}MAN{\c&HFFFFFF&} WITH
+Dialogue: 0,0:01:16.90,0:01:16.94,Default,,0,0,0,,{\b700}THE MAN WITH
+Dialogue: 0,0:01:16.94,0:01:17.04,Default,,0,0,0,,{\b700}THE MAN {\c&H00FFFF&}WITH{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.08,0:01:17.16,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} BAG CAN
+Dialogue: 0,0:01:17.16,0:01:17.20,Default,,0,0,0,,{\b700}THE BAG CAN
+Dialogue: 0,0:01:17.20,0:01:17.44,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}BAG{\c&HFFFFFF&} CAN
+Dialogue: 0,0:01:17.44,0:01:17.48,Default,,0,0,0,,{\b700}THE BAG CAN
+Dialogue: 0,0:01:17.48,0:01:17.60,Default,,0,0,0,,{\b700}THE BAG {\c&H00FFFF&}CAN{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.66,0:01:17.88,Default,,0,0,0,,{\b700}{\c&H00FFFF&}ONLY{\c&HFFFFFF&} STARE.
+Dialogue: 0,0:01:17.88,0:01:17.96,Default,,0,0,0,,{\b700}ONLY STARE.
+Dialogue: 0,0:01:17.96,0:01:18.46,Default,,0,0,0,,{\b700}ONLY {\c&H00FFFF&}STARE.{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.92,0:01:19.10,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HIS{\c&HFFFFFF&} BAG SLIPS
+Dialogue: 0,0:01:19.10,0:01:19.14,Default,,0,0,0,,{\b700}HIS BAG SLIPS
+Dialogue: 0,0:01:19.14,0:01:19.44,Default,,0,0,0,,{\b700}HIS {\c&H00FFFF&}BAG{\c&HFFFFFF&} SLIPS
+Dialogue: 0,0:01:19.44,0:01:19.54,Default,,0,0,0,,{\b700}HIS BAG SLIPS
+Dialogue: 0,0:01:19.54,0:01:19.82,Default,,0,0,0,,{\b700}HIS BAG {\c&H00FFFF&}SLIPS{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.86,0:01:19.98,Default,,0,0,0,,{\b700}{\c&H00FFFF&}FROM{\c&HFFFFFF&} HIS HAND
+Dialogue: 0,0:01:19.98,0:01:20.02,Default,,0,0,0,,{\b700}FROM HIS HAND
+Dialogue: 0,0:01:20.02,0:01:20.14,Default,,0,0,0,,{\b700}FROM {\c&H00FFFF&}HIS{\c&HFFFFFF&} HAND
+Dialogue: 0,0:01:20.14,0:01:20.20,Default,,0,0,0,,{\b700}FROM HIS HAND
+Dialogue: 0,0:01:20.20,0:01:20.46,Default,,0,0,0,,{\b700}FROM HIS {\c&H00FFFF&}HAND{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.52,0:01:20.60,Default,,0,0,0,,{\b700}{\c&H00FFFF&}AS{\c&HFFFFFF&} THE FINGER
+Dialogue: 0,0:01:20.60,0:01:20.66,Default,,0,0,0,,{\b700}AS THE FINGER
+Dialogue: 0,0:01:20.66,0:01:20.74,Default,,0,0,0,,{\b700}AS {\c&H00FFFF&}THE{\c&HFFFFFF&} FINGER
+Dialogue: 0,0:01:20.74,0:01:20.82,Default,,0,0,0,,{\b700}AS THE FINGER
+Dialogue: 0,0:01:20.82,0:01:21.12,Default,,0,0,0,,{\b700}AS THE {\c&H00FFFF&}FINGER{\c&HFFFFFF&}
+Dialogue: 0,0:01:21.18,0:01:21.44,Default,,0,0,0,,{\b700}{\c&H00FFFF&}COMES{\c&HFFFFFF&} DOWN TOWARD
+Dialogue: 0,0:01:21.44,0:01:21.50,Default,,0,0,0,,{\b700}COMES DOWN TOWARD
+Dialogue: 0,0:01:21.50,0:01:21.72,Default,,0,0,0,,{\b700}COMES {\c&H00FFFF&}DOWN{\c&HFFFFFF&} TOWARD
+Dialogue: 0,0:01:21.72,0:01:21.78,Default,,0,0,0,,{\b700}COMES DOWN TOWARD
+Dialogue: 0,0:01:21.78,0:01:22.10,Default,,0,0,0,,{\b700}COMES DOWN {\c&H00FFFF&}TOWARD{\c&HFFFFFF&}
+Dialogue: 0,0:01:22.12,0:01:22.34,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HIM.{\c&HFFFFFF&} HE WHISPERS
+Dialogue: 0,0:01:22.34,0:01:23.04,Default,,0,0,0,,{\b700}HIM. HE WHISPERS
+Dialogue: 0,0:01:23.04,0:01:23.14,Default,,0,0,0,,{\b700}HIM. {\c&H00FFFF&}HE{\c&HFFFFFF&} WHISPERS
+Dialogue: 0,0:01:23.14,0:01:23.18,Default,,0,0,0,,{\b700}HIM. HE WHISPERS
+Dialogue: 0,0:01:23.18,0:01:23.52,Default,,0,0,0,,{\b700}HIM. HE {\c&H00FFFF&}WHISPERS{\c&HFFFFFF&}
+Dialogue: 0,0:01:23.56,0:01:23.60,Default,,0,0,0,,{\b700}{\c&H00FFFF&}A{\c&HFFFFFF&} NAME,
+Dialogue: 0,0:01:23.60,0:01:23.66,Default,,0,0,0,,{\b700}A NAME,
+Dialogue: 0,0:01:23.66,0:01:23.96,Default,,0,0,0,,{\b700}A {\c&H00FFFF&}NAME,{\c&HFFFFFF&}
+Dialogue: 0,0:01:24.06,0:01:25.28,Default,,0,0,0,,{\b700}{\c&H00FFFF&}"AMBER{\c&HFFFFFF&} LOCKHART?" THE
+Dialogue: 0,0:01:25.28,0:01:25.34,Default,,0,0,0,,{\b700}"AMBER LOCKHART?" THE
+Dialogue: 0,0:01:25.34,0:01:25.92,Default,,0,0,0,,{\b700}"AMBER {\c&H00FFFF&}LOCKHART?"{\c&HFFFFFF&} THE
+Dialogue: 0,0:01:25.92,0:01:27.02,Default,,0,0,0,,{\b700}"AMBER LOCKHART?" THE
+Dialogue: 0,0:01:27.02,0:01:27.08,Default,,0,0,0,,{\b700}"AMBER LOCKHART?" {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.14,0:01:27.38,Default,,0,0,0,,{\b700}{\c&H00FFFF&}GIRL{\c&HFFFFFF&} HE REMEMBERS,
+Dialogue: 0,0:01:27.38,0:01:27.44,Default,,0,0,0,,{\b700}GIRL HE REMEMBERS,
+Dialogue: 0,0:01:27.44,0:01:27.54,Default,,0,0,0,,{\b700}GIRL {\c&H00FFFF&}HE{\c&HFFFFFF&} REMEMBERS,
+Dialogue: 0,0:01:27.54,0:01:27.58,Default,,0,0,0,,{\b700}GIRL HE REMEMBERS,
+Dialogue: 0,0:01:27.58,0:01:28.22,Default,,0,0,0,,{\b700}GIRL HE {\c&H00FFFF&}REMEMBERS,{\c&HFFFFFF&}
+Dialogue: 0,0:01:28.92,0:01:29.02,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} ONE WHO
+Dialogue: 0,0:01:29.02,0:01:29.14,Default,,0,0,0,,{\b700}THE ONE WHO
+Dialogue: 0,0:01:29.14,0:01:29.32,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}ONE{\c&HFFFFFF&} WHO
+Dialogue: 0,0:01:29.32,0:01:29.36,Default,,0,0,0,,{\b700}THE ONE WHO
+Dialogue: 0,0:01:29.36,0:01:29.48,Default,,0,0,0,,{\b700}THE ONE {\c&H00FFFF&}WHO{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.52,0:01:29.78,Default,,0,0,0,,{\b700}{\c&H00FFFF&}LOOKS{\c&HFFFFFF&} JUST LIKE
+Dialogue: 0,0:01:29.78,0:01:29.86,Default,,0,0,0,,{\b700}LOOKS JUST LIKE
+Dialogue: 0,0:01:29.86,0:01:30.04,Default,,0,0,0,,{\b700}LOOKS {\c&H00FFFF&}JUST{\c&HFFFFFF&} LIKE
+Dialogue: 0,0:01:30.04,0:01:30.10,Default,,0,0,0,,{\b700}LOOKS JUST LIKE
+Dialogue: 0,0:01:30.10,0:01:30.28,Default,,0,0,0,,{\b700}LOOKS JUST {\c&H00FFFF&}LIKE{\c&HFFFFFF&}
+Dialogue: 0,0:01:30.32,0:01:30.40,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} CELESTIAL BEING.
+Dialogue: 0,0:01:30.40,0:01:30.46,Default,,0,0,0,,{\b700}THE CELESTIAL BEING.
+Dialogue: 0,0:01:30.46,0:01:31.02,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}CELESTIAL{\c&HFFFFFF&} BEING.
+Dialogue: 0,0:01:31.02,0:01:31.06,Default,,0,0,0,,{\b700}THE CELESTIAL BEING.
+Dialogue: 0,0:01:31.06,0:01:31.44,Default,,0,0,0,,{\b700}THE CELESTIAL {\c&H00FFFF&}BEING.{\c&HFFFFFF&}
+Dialogue: 0,0:01:32.34,0:01:32.42,Default,,0,0,0,,{\b700}{\c&H00FFFF&}AND{\c&HFFFFFF&} THEN THE
+Dialogue: 0,0:01:32.42,0:01:32.48,Default,,0,0,0,,{\b700}AND THEN THE
+Dialogue: 0,0:01:32.48,0:01:32.66,Default,,0,0,0,,{\b700}AND {\c&H00FFFF&}THEN{\c&HFFFFFF&} THE
+Dialogue: 0,0:01:32.66,0:01:32.72,Default,,0,0,0,,{\b700}AND THEN THE
+Dialogue: 0,0:01:32.72,0:01:32.80,Default,,0,0,0,,{\b700}AND THEN {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:01:32.84,0:01:33.00,Default,,0,0,0,,{\b700}{\c&H00FFFF&}EARTH{\c&HFFFFFF&} WAS GONE.
+Dialogue: 0,0:01:33.00,0:01:33.06,Default,,0,0,0,,{\b700}EARTH WAS GONE.
+Dialogue: 0,0:01:33.06,0:01:33.18,Default,,0,0,0,,{\b700}EARTH {\c&H00FFFF&}WAS{\c&HFFFFFF&} GONE.
+Dialogue: 0,0:01:33.18,0:01:33.24,Default,,0,0,0,,{\b700}EARTH WAS GONE.
+Dialogue: 0,0:01:33.24,0:01:33.62,Default,,0,0,0,,{\b700}EARTH WAS {\c&H00FFFF&}GONE.{\c&HFFFFFF&}
+Dialogue: 0,0:01:34.64,0:01:35.02,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SUDDENLY,{\c&HFFFFFF&} TIME REWINDS
+Dialogue: 0,0:01:35.02,0:01:35.40,Default,,0,0,0,,{\b700}SUDDENLY, TIME REWINDS
+Dialogue: 0,0:01:35.40,0:01:35.68,Default,,0,0,0,,{\b700}SUDDENLY, {\c&H00FFFF&}TIME{\c&HFFFFFF&} REWINDS
+Dialogue: 0,0:01:35.68,0:01:35.72,Default,,0,0,0,,{\b700}SUDDENLY, TIME REWINDS
+Dialogue: 0,0:01:35.72,0:01:36.46,Default,,0,0,0,,{\b700}SUDDENLY, TIME {\c&H00FFFF&}REWINDS{\c&HFFFFFF&}
+Dialogue: 0,0:01:36.98,0:01:37.22,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THREE{\c&HFFFFFF&} YEARS BACK
+Dialogue: 0,0:01:37.22,0:01:37.26,Default,,0,0,0,,{\b700}THREE YEARS BACK
+Dialogue: 0,0:01:37.26,0:01:37.52,Default,,0,0,0,,{\b700}THREE {\c&H00FFFF&}YEARS{\c&HFFFFFF&} BACK
+Dialogue: 0,0:01:37.52,0:01:37.58,Default,,0,0,0,,{\b700}THREE YEARS BACK
+Dialogue: 0,0:01:37.58,0:01:37.98,Default,,0,0,0,,{\b700}THREE YEARS {\c&H00FFFF&}BACK{\c&HFFFFFF&}
+Dialogue: 0,0:01:38.08,0:01:38.40,Default,,0,0,0,,{\b700}{\c&H00FFFF&}INSIDE{\c&HFFFFFF&} A CLASSROOM
+Dialogue: 0,0:01:38.40,0:01:38.44,Default,,0,0,0,,{\b700}INSIDE A CLASSROOM
+Dialogue: 0,0:01:38.44,0:01:38.48,Default,,0,0,0,,{\b700}INSIDE {\c&H00FFFF&}A{\c&HFFFFFF&} CLASSROOM
+Dialogue: 0,0:01:38.48,0:01:38.52,Default,,0,0,0,,{\b700}INSIDE A CLASSROOM
+Dialogue: 0,0:01:38.52,0:01:39.38,Default,,0,0,0,,{\b700}INSIDE A {\c&H00FFFF&}CLASSROOM{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.46,0:01:39.52,Default,,0,0,0,,{\b700}{\c&H00FFFF&}IN{\c&HFFFFFF&} THE MIDDLE
+Dialogue: 0,0:01:39.52,0:01:39.56,Default,,0,0,0,,{\b700}IN THE MIDDLE
+Dialogue: 0,0:01:39.56,0:01:39.62,Default,,0,0,0,,{\b700}IN {\c&H00FFFF&}THE{\c&HFFFFFF&} MIDDLE
+Dialogue: 0,0:01:39.62,0:01:39.66,Default,,0,0,0,,{\b700}IN THE MIDDLE
+Dialogue: 0,0:01:39.66,0:01:39.86,Default,,0,0,0,,{\b700}IN THE {\c&H00FFFF&}MIDDLE{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.92,0:01:39.98,Default,,0,0,0,,{\b700}{\c&H00FFFF&}OF{\c&HFFFFFF&} A LESSON.
+Dialogue: 0,0:01:39.98,0:01:40.02,Default,,0,0,0,,{\b700}OF A LESSON.
+Dialogue: 0,0:01:40.02,0:01:40.06,Default,,0,0,0,,{\b700}OF {\c&H00FFFF&}A{\c&HFFFFFF&} LESSON.
+Dialogue: 0,0:01:40.06,0:01:40.12,Default,,0,0,0,,{\b700}OF A LESSON.
+Dialogue: 0,0:01:40.12,0:01:40.52,Default,,0,0,0,,{\b700}OF A {\c&H00FFFF&}LESSON.{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.10,0:01:41.18,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} MAN WITH
+Dialogue: 0,0:01:41.18,0:01:41.24,Default,,0,0,0,,{\b700}THE MAN WITH
+Dialogue: 0,0:01:41.24,0:01:41.44,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}MAN{\c&HFFFFFF&} WITH
+Dialogue: 0,0:01:41.44,0:01:41.48,Default,,0,0,0,,{\b700}THE MAN WITH
+Dialogue: 0,0:01:41.48,0:01:41.58,Default,,0,0,0,,{\b700}THE MAN {\c&H00FFFF&}WITH{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.62,0:01:41.70,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} BAG IS
+Dialogue: 0,0:01:41.70,0:01:41.76,Default,,0,0,0,,{\b700}THE BAG IS
+Dialogue: 0,0:01:41.76,0:01:42.00,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}BAG{\c&HFFFFFF&} IS
+Dialogue: 0,0:01:42.00,0:01:42.06,Default,,0,0,0,,{\b700}THE BAG IS
+Dialogue: 0,0:01:42.06,0:01:42.14,Default,,0,0,0,,{\b700}THE BAG {\c&H00FFFF&}IS{\c&HFFFFFF&}
+Dialogue: 0,0:01:42.20,0:01:42.58,Default,,0,0,0,,{\b700}{\c&H00FFFF&}AWAKE.{\c&HFFFFFF&} HE HAS
+Dialogue: 0,0:01:42.58,0:01:43.24,Default,,0,0,0,,{\b700}AWAKE. HE HAS
+Dialogue: 0,0:01:43.24,0:01:43.32,Default,,0,0,0,,{\b700}AWAKE. {\c&H00FFFF&}HE{\c&HFFFFFF&} HAS
+Dialogue: 0,0:01:43.32,0:01:43.38,Default,,0,0,0,,{\b700}AWAKE. HE HAS
+Dialogue: 0,0:01:43.38,0:01:43.50,Default,,0,0,0,,{\b700}AWAKE. HE {\c&H00FFFF&}HAS{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.54,0:01:44.10,Default,,0,0,0,,{\b700}{\c&H00FFFF&}REGRESSED.{\c&HFFFFFF&} HE GOES
+Dialogue: 0,0:01:44.10,0:01:44.92,Default,,0,0,0,,{\b700}REGRESSED. HE GOES
+Dialogue: 0,0:01:44.92,0:01:45.00,Default,,0,0,0,,{\b700}REGRESSED. {\c&H00FFFF&}HE{\c&HFFFFFF&} GOES
+Dialogue: 0,0:01:45.00,0:01:45.04,Default,,0,0,0,,{\b700}REGRESSED. HE GOES
+Dialogue: 0,0:01:45.04,0:01:45.30,Default,,0,0,0,,{\b700}REGRESSED. HE {\c&H00FFFF&}GOES{\c&HFFFFFF&}
+Dialogue: 0,0:01:45.36,0:01:45.70,Default,,0,0,0,,{\b700}{\c&H00FFFF&}PEEKING{\c&HFFFFFF&} TO ANOTHER
+Dialogue: 0,0:01:45.70,0:01:45.76,Default,,0,0,0,,{\b700}PEEKING TO ANOTHER
+Dialogue: 0,0:01:45.76,0:01:45.86,Default,,0,0,0,,{\b700}PEEKING {\c&H00FFFF&}TO{\c&HFFFFFF&} ANOTHER
+Dialogue: 0,0:01:45.86,0:01:45.90,Default,,0,0,0,,{\b700}PEEKING TO ANOTHER
+Dialogue: 0,0:01:45.90,0:01:46.16,Default,,0,0,0,,{\b700}PEEKING TO {\c&H00FFFF&}ANOTHER{\c&HFFFFFF&}
+Dialogue: 0,0:01:46.22,0:01:46.78,Default,,0,0,0,,{\b700}{\c&H00FFFF&}CLASSROOM{\c&HFFFFFF&} AND SEES
+Dialogue: 0,0:01:46.78,0:01:46.82,Default,,0,0,0,,{\b700}CLASSROOM AND SEES
+Dialogue: 0,0:01:46.82,0:01:46.96,Default,,0,0,0,,{\b700}CLASSROOM {\c&H00FFFF&}AND{\c&HFFFFFF&} SEES
+Dialogue: 0,0:01:46.96,0:01:47.04,Default,,0,0,0,,{\b700}CLASSROOM AND SEES
+Dialogue: 0,0:01:47.04,0:01:47.28,Default,,0,0,0,,{\b700}CLASSROOM AND {\c&H00FFFF&}SEES{\c&HFFFFFF&}
+Dialogue: 0,0:01:47.30,0:01:47.48,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER,{\c&HFFFFFF&} AMBER LOCKHART.
+Dialogue: 0,0:01:47.48,0:01:48.14,Default,,0,0,0,,{\b700}HER, AMBER LOCKHART.
+Dialogue: 0,0:01:48.14,0:01:48.40,Default,,0,0,0,,{\b700}HER, {\c&H00FFFF&}AMBER{\c&HFFFFFF&} LOCKHART.
+Dialogue: 0,0:01:48.40,0:01:48.50,Default,,0,0,0,,{\b700}HER, AMBER LOCKHART.
+Dialogue: 0,0:01:48.50,0:01:49.06,Default,,0,0,0,,{\b700}HER, AMBER {\c&H00FFFF&}LOCKHART.{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.66,0:01:50.02,Default,,0,0,0,,{\b700}{\c&H00FFFF&}PERFECT{\c&HFFFFFF&} GRADES,
+Dialogue: 0,0:01:50.02,0:01:50.08,Default,,0,0,0,,{\b700}PERFECT GRADES,
+Dialogue: 0,0:01:50.08,0:01:50.46,Default,,0,0,0,,{\b700}PERFECT {\c&H00FFFF&}GRADES,{\c&HFFFFFF&}
+Dialogue: 0,0:01:50.60,0:01:50.88,Default,,0,0,0,,{\b700}{\c&H00FFFF&}NOTHING{\c&HFFFFFF&} IS EVER
+Dialogue: 0,0:01:50.88,0:01:50.94,Default,,0,0,0,,{\b700}NOTHING IS EVER
+Dialogue: 0,0:01:50.94,0:01:51.04,Default,,0,0,0,,{\b700}NOTHING {\c&H00FFFF&}IS{\c&HFFFFFF&} EVER
+Dialogue: 0,0:01:51.04,0:01:51.10,Default,,0,0,0,,{\b700}NOTHING IS EVER
+Dialogue: 0,0:01:51.10,0:01:51.26,Default,,0,0,0,,{\b700}NOTHING IS {\c&H00FFFF&}EVER{\c&HFFFFFF&}
+Dialogue: 0,0:01:51.32,0:01:51.34,Default,,0,0,0,,{\b700}{\c&H00FFFF&}A{\c&HFFFFFF&} CHALLENGE FOR
+Dialogue: 0,0:01:51.34,0:01:51.42,Default,,0,0,0,,{\b700}A CHALLENGE FOR
+Dialogue: 0,0:01:51.42,0:01:51.82,Default,,0,0,0,,{\b700}A {\c&H00FFFF&}CHALLENGE{\c&HFFFFFF&} FOR
+Dialogue: 0,0:01:51.82,0:01:51.88,Default,,0,0,0,,{\b700}A CHALLENGE FOR
+Dialogue: 0,0:01:51.88,0:01:51.98,Default,,0,0,0,,{\b700}A CHALLENGE {\c&H00FFFF&}FOR{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.04,0:01:52.22,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER,{\c&HFFFFFF&} BUT SHE
+Dialogue: 0,0:01:52.22,0:01:52.92,Default,,0,0,0,,{\b700}HER, BUT SHE
+Dialogue: 0,0:01:52.92,0:01:53.02,Default,,0,0,0,,{\b700}HER, {\c&H00FFFF&}BUT{\c&HFFFFFF&} SHE
+Dialogue: 0,0:01:53.02,0:01:53.08,Default,,0,0,0,,{\b700}HER, BUT SHE
+Dialogue: 0,0:01:53.08,0:01:53.22,Default,,0,0,0,,{\b700}HER, BUT {\c&H00FFFF&}SHE{\c&HFFFFFF&}
+Dialogue: 0,0:01:53.30,0:01:53.48,Default,,0,0,0,,{\b700}{\c&H00FFFF&}SITS{\c&HFFFFFF&} ALONE,
+Dialogue: 0,0:01:53.48,0:01:53.56,Default,,0,0,0,,{\b700}SITS ALONE,
+Dialogue: 0,0:01:53.56,0:01:54.00,Default,,0,0,0,,{\b700}SITS {\c&H00FFFF&}ALONE,{\c&HFFFFFF&}
+Dialogue: 0,0:01:54.46,0:01:54.82,Default,,0,0,0,,{\b700}{\c&H00FFFF&}ALWAYS{\c&HFFFFFF&} A LONER.
+Dialogue: 0,0:01:54.82,0:01:54.88,Default,,0,0,0,,{\b700}ALWAYS A LONER.
+Dialogue: 0,0:01:54.88,0:01:54.92,Default,,0,0,0,,{\b700}ALWAYS {\c&H00FFFF&}A{\c&HFFFFFF&} LONER.
+Dialogue: 0,0:01:54.92,0:01:54.98,Default,,0,0,0,,{\b700}ALWAYS A LONER.
+Dialogue: 0,0:01:54.98,0:01:55.46,Default,,0,0,0,,{\b700}ALWAYS A {\c&H00FFFF&}LONER.{\c&HFFFFFF&}
+Dialogue: 0,0:01:56.44,0:01:56.52,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HE{\c&HFFFFFF&} CAN'T UNDERSTAND
+Dialogue: 0,0:01:56.52,0:01:56.58,Default,,0,0,0,,{\b700}HE CAN'T UNDERSTAND
+Dialogue: 0,0:01:56.58,0:01:56.78,Default,,0,0,0,,{\b700}HE {\c&H00FFFF&}CAN'T{\c&HFFFFFF&} UNDERSTAND
+Dialogue: 0,0:01:56.78,0:01:56.84,Default,,0,0,0,,{\b700}HE CAN'T UNDERSTAND
+Dialogue: 0,0:01:56.84,0:01:57.38,Default,,0,0,0,,{\b700}HE CAN'T {\c&H00FFFF&}UNDERSTAND{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.42,0:01:57.56,Default,,0,0,0,,{\b700}{\c&H00FFFF&}IT.{\c&HFFFFFF&} WHAT COULD
+Dialogue: 0,0:01:57.56,0:01:58.36,Default,,0,0,0,,{\b700}IT. WHAT COULD
+Dialogue: 0,0:01:58.36,0:01:58.50,Default,,0,0,0,,{\b700}IT. {\c&H00FFFF&}WHAT{\c&HFFFFFF&} COULD
+Dialogue: 0,0:01:58.50,0:01:58.54,Default,,0,0,0,,{\b700}IT. WHAT COULD
+Dialogue: 0,0:01:58.54,0:01:58.66,Default,,0,0,0,,{\b700}IT. WHAT {\c&H00FFFF&}COULD{\c&HFFFFFF&}
+Dialogue: 0,0:01:58.72,0:01:58.90,Default,,0,0,0,,{\b700}{\c&H00FFFF&}MAKE{\c&HFFFFFF&} SOMEONE LIKE
+Dialogue: 0,0:01:58.90,0:01:58.98,Default,,0,0,0,,{\b700}MAKE SOMEONE LIKE
+Dialogue: 0,0:01:58.98,0:01:59.28,Default,,0,0,0,,{\b700}MAKE {\c&H00FFFF&}SOMEONE{\c&HFFFFFF&} LIKE
+Dialogue: 0,0:01:59.28,0:01:59.32,Default,,0,0,0,,{\b700}MAKE SOMEONE LIKE
+Dialogue: 0,0:01:59.32,0:01:59.50,Default,,0,0,0,,{\b700}MAKE SOMEONE {\c&H00FFFF&}LIKE{\c&HFFFFFF&}
+Dialogue: 0,0:01:59.56,0:01:59.90,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HER{\c&HFFFFFF&} DESTROY THE
+Dialogue: 0,0:01:59.90,0:01:59.96,Default,,0,0,0,,{\b700}HER DESTROY THE
+Dialogue: 0,0:01:59.96,0:02:00.42,Default,,0,0,0,,{\b700}HER {\c&H00FFFF&}DESTROY{\c&HFFFFFF&} THE
+Dialogue: 0,0:02:00.42,0:02:00.48,Default,,0,0,0,,{\b700}HER DESTROY THE
+Dialogue: 0,0:02:00.48,0:02:00.56,Default,,0,0,0,,{\b700}HER DESTROY {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.62,0:02:00.98,Default,,0,0,0,,{\b700}{\c&H00FFFF&}EARTH?{\c&HFFFFFF&} BUT IF
+Dialogue: 0,0:02:00.98,0:02:01.86,Default,,0,0,0,,{\b700}EARTH? BUT IF
+Dialogue: 0,0:02:01.86,0:02:01.96,Default,,0,0,0,,{\b700}EARTH? {\c&H00FFFF&}BUT{\c&HFFFFFF&} IF
+Dialogue: 0,0:02:01.96,0:02:02.02,Default,,0,0,0,,{\b700}EARTH? BUT IF
+Dialogue: 0,0:02:02.02,0:02:02.08,Default,,0,0,0,,{\b700}EARTH? BUT {\c&H00FFFF&}IF{\c&HFFFFFF&}
+Dialogue: 0,0:02:02.12,0:02:02.20,Default,,0,0,0,,{\b700}{\c&H00FFFF&}THE{\c&HFFFFFF&} FUTURE CAN
+Dialogue: 0,0:02:02.20,0:02:02.28,Default,,0,0,0,,{\b700}THE FUTURE CAN
+Dialogue: 0,0:02:02.28,0:02:02.56,Default,,0,0,0,,{\b700}THE {\c&H00FFFF&}FUTURE{\c&HFFFFFF&} CAN
+Dialogue: 0,0:02:02.56,0:02:02.60,Default,,0,0,0,,{\b700}THE FUTURE CAN
+Dialogue: 0,0:02:02.60,0:02:02.74,Default,,0,0,0,,{\b700}THE FUTURE {\c&H00FFFF&}CAN{\c&HFFFFFF&}
+Dialogue: 0,0:02:02.78,0:02:02.88,Default,,0,0,0,,{\b700}{\c&H00FFFF&}BE{\c&HFFFFFF&} CHANGED,
+Dialogue: 0,0:02:02.88,0:02:02.96,Default,,0,0,0,,{\b700}BE CHANGED,
+Dialogue: 0,0:02:02.96,0:02:03.46,Default,,0,0,0,,{\b700}BE {\c&H00FFFF&}CHANGED,{\c&HFFFFFF&}
+Dialogue: 0,0:02:04.02,0:02:04.18,Default,,0,0,0,,{\b700}{\c&H00FFFF&}HE'S{\c&HFFFFFF&} GOING TO
+Dialogue: 0,0:02:04.18,0:02:04.24,Default,,0,0,0,,{\b700}HE'S GOING TO
+Dialogue: 0,0:02:04.24,0:02:04.48,Default,,0,0,0,,{\b700}HE'S {\c&H00FFFF&}GOING{\c&HFFFFFF&} TO
+Dialogue: 0,0:02:04.48,0:02:04.52,Default,,0,0,0,,{\b700}HE'S GOING TO
+Dialogue: 0,0:02:04.52,0:02:04.62,Default,,0,0,0,,{\b700}HE'S GOING {\c&H00FFFF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:02:04.68,0:02:04.94,Default,,0,0,0,,{\b700}{\c&H00FFFF&}FIND{\c&HFFFFFF&} OUT.
+Dialogue: 0,0:02:04.94,0:02:05.04,Default,,0,0,0,,{\b700}FIND OUT.
+Dialogue: 0,0:02:05.04,0:02:05.24,Default,,0,0,0,,{\b700}FIND {\c&H00FFFF&}OUT.{\c&HFFFFFF&}

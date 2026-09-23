@@ -1,0 +1,2 @@
+"""Manhwa editor application."""
+

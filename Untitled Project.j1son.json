@@ -1,0 +1,5239 @@
+{
+  "name": "Untitled Project",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "panels": [
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-47-33-010_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-47-33-010_app.mihon.jpg",
+      "id": "af8d4389-cdb5-4222-b0e8-82a03af3cc77",
+      "sequence": 1,
+      "start_time": 0.1,
+      "end_time": 2.12,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-47-39-165_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-47-39-165_app.mihon.jpg",
+      "id": "96d2b5fc-c92a-4069-b5f4-85cf5b054cb5",
+      "sequence": 2,
+      "start_time": 2.78,
+      "end_time": 5.24,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-47-42-659_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-47-42-659_app.mihon.jpg",
+      "id": "50ce19a7-795a-4e4f-a7ad-fa6573ed42ab",
+      "sequence": 3,
+      "start_time": 5.24,
+      "end_time": 13.36,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-47-46-816_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-47-46-816_app.mihon.jpg",
+      "id": "6fbc3a24-aba9-4bec-b587-09af765226a0",
+      "sequence": 4,
+      "start_time": 13.92,
+      "end_time": 16.16,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-47-51-100_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-47-51-100_app.mihon.jpg",
+      "id": "23bbfc01-b781-45cb-aa03-89c027ab54ac",
+      "sequence": 5,
+      "start_time": 17.08,
+      "end_time": 21.54,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-47-55-808_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-47-55-808_app.mihon.jpg",
+      "id": "4e6ec5ef-3a8e-4fc6-a969-10264ced64ba",
+      "sequence": 6,
+      "start_time": 22.12,
+      "end_time": 25.42,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-02-456_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-02-456_app.mihon.jpg",
+      "id": "c31800ff-4d92-4c5f-87b3-2b93169a3860",
+      "sequence": 7,
+      "start_time": 26.32,
+      "end_time": 27.32,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-05-080_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-05-080_app.mihon.jpg",
+      "id": "30c01d22-28c4-47b8-9d16-b1f17cef7b8d",
+      "sequence": 8,
+      "start_time": 27.9,
+      "end_time": 30.12,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-17-138_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-17-138_app.mihon.jpg",
+      "id": "72b40d7b-bacb-4d46-be79-c6493552c371",
+      "sequence": 9,
+      "start_time": 30.72,
+      "end_time": 32.259,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-23-558_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-23-558_app.mihon.jpg",
+      "id": "76a3d780-876b-49c7-913c-57c71d00a15c",
+      "sequence": 10,
+      "start_time": 32.98,
+      "end_time": 34.52,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-33-455_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-33-455_app.mihon.jpg",
+      "id": "9720cb7e-8378-4f38-8153-0857dc687302",
+      "sequence": 11,
+      "start_time": 34.88,
+      "end_time": 37.64,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-38-731_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-38-731_app.mihon.jpg",
+      "id": "993a24fe-a931-4bca-80a0-bb2d51cf75d3",
+      "sequence": 12,
+      "start_time": 38.3,
+      "end_time": 42.12,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-50-463_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-50-463_app.mihon.jpg",
+      "id": "e594cca1-197b-46d7-bdfe-7c051e79d593",
+      "sequence": 13,
+      "start_time": 43.02,
+      "end_time": 45.44,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-48-54-968_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-48-54-968_app.mihon.jpg",
+      "id": "4d1a05ac-8e38-45c2-872b-732a0afa471f",
+      "sequence": 14,
+      "start_time": 45.44,
+      "end_time": 48.04,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-00-082_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-00-082_app.mihon.jpg",
+      "id": "ab233c0c-7662-4369-b84b-4aadd8aae4c8",
+      "sequence": 15,
+      "start_time": 48.84,
+      "end_time": 50.14,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-04-525_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-04-525_app.mihon.jpg",
+      "id": "2a53f139-0777-4a3e-b5b1-11d0f84ba5c8",
+      "sequence": 16,
+      "start_time": 50.7,
+      "end_time": 51.96,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-32-153_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-32-153_app.mihon.jpg",
+      "id": "51065970-f914-454b-b143-382b8236b9ca",
+      "sequence": 17,
+      "start_time": 52.46,
+      "end_time": 54.6,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-36-724_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-36-724_app.mihon.jpg",
+      "id": "c501712c-00bd-4120-ab0c-bbcea36ef813",
+      "sequence": 18,
+      "start_time": 55.42,
+      "end_time": 58.56,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-40-779_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-40-779_app.mihon.jpg",
+      "id": "5162bdb4-37fe-4c74-85e5-1193c5ae6d4f",
+      "sequence": 19,
+      "start_time": 59.24,
+      "end_time": 60.72,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-44-674_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-44-674_app.mihon.jpg",
+      "id": "64339df5-e621-4a73-a5b0-d2d3390d8be8",
+      "sequence": 20,
+      "start_time": 60.72,
+      "end_time": 61.74,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-49-971_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-49-971_app.mihon.jpg",
+      "id": "8b07b479-e115-49eb-a3c7-f332992e001c",
+      "sequence": 21,
+      "start_time": 61.84,
+      "end_time": 62.84,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-56-138_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-56-138_app.mihon.jpg",
+      "id": "b5afa167-0818-4965-96d8-ab6bc2f2d7fa",
+      "sequence": 22,
+      "start_time": 63.36,
+      "end_time": 64.379,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-49-59-983_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-49-59-983_app.mihon.jpg",
+      "id": "47c9c255-2980-4824-bb96-0de3039c27d0",
+      "sequence": 23,
+      "start_time": 64.879,
+      "end_time": 66.7,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-03-163_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-03-163_app.mihon.jpg",
+      "id": "649ad4cc-eaae-4fa0-97f8-dec7980413b0",
+      "sequence": 24,
+      "start_time": 66.7,
+      "end_time": 67.84,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-07-267_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-07-267_app.mihon.jpg",
+      "id": "9ec76594-3e4e-4745-b3e4-4ea716b1768e",
+      "sequence": 25,
+      "start_time": 67.98,
+      "end_time": 69.26,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-10-207_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-10-207_app.mihon.jpg",
+      "id": "4b56ab98-da2c-4880-b7f7-dd833375dc15",
+      "sequence": 26,
+      "start_time": 70.0,
+      "end_time": 71.84,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-18-464_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-18-464_app.mihon.jpg",
+      "id": "27d72de1-10a8-4a30-9c92-8950caef4839",
+      "sequence": 27,
+      "start_time": 72.52,
+      "end_time": 74.04,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-24-880_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-24-880_app.mihon.jpg",
+      "id": "e6f65381-94eb-4301-a48c-cde42ae6070e",
+      "sequence": 28,
+      "start_time": 74.3,
+      "end_time": 75.2,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-47-088_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-47-088_app.mihon.jpg",
+      "id": "f558116e-220e-4cfc-b83f-04ec9ba9503d",
+      "sequence": 29,
+      "start_time": 75.52,
+      "end_time": 76.76,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-50-56-650_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-50-56-650_app.mihon.jpg",
+      "id": "f42948f7-2c92-4eb7-a980-945ed5659731",
+      "sequence": 30,
+      "start_time": 76.76,
+      "end_time": 81.7,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-01-987_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-01-987_app.mihon.jpg",
+      "id": "ecb01767-62af-4944-aa0d-a3ab5fb00c7d",
+      "sequence": 31,
+      "start_time": 82.54,
+      "end_time": 84.32,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-11-274_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-11-274_app.mihon.jpg",
+      "id": "73b343dc-0ec3-4c6a-b837-2301388602e6",
+      "sequence": 32,
+      "start_time": 84.76,
+      "end_time": 88.84,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-15-092_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-15-092_app.mihon.jpg",
+      "id": "954e55ac-14da-4968-b3db-bfd41de709c6",
+      "sequence": 33,
+      "start_time": 89.44,
+      "end_time": 91.46,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-20-467_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-20-467_app.mihon.jpg",
+      "id": "78860fa2-99a2-4a5d-99ae-0dfd00b0ccd7",
+      "sequence": 34,
+      "start_time": 91.46,
+      "end_time": 93.22,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-26-111_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-26-111_app.mihon.jpg",
+      "id": "70f7458c-6fd0-4cb4-93d1-b90f1d23bfae",
+      "sequence": 35,
+      "start_time": 93.9,
+      "end_time": 94.92,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-29-862_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-29-862_app.mihon.jpg",
+      "id": "78bab9ba-9eeb-4c7b-bd08-c1dcdb4d6522",
+      "sequence": 36,
+      "start_time": 95.62,
+      "end_time": 96.76,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-34-014_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-34-014_app.mihon.jpg",
+      "id": "5027f760-a05a-4a6a-bde5-0b3fc56583f7",
+      "sequence": 37,
+      "start_time": 97.3,
+      "end_time": 97.9,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-37-993_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-37-993_app.mihon.jpg",
+      "id": "99b81481-d756-4432-b012-39b1fae0f149",
+      "sequence": 38,
+      "start_time": 97.9,
+      "end_time": 99.18,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-51-59-296_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-51-59-296_app.mihon.jpg",
+      "id": "8fd7573d-fe82-4396-b408-dd91f82b4d90",
+      "sequence": 39,
+      "start_time": 99.96,
+      "end_time": 101.02,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-02-471_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-02-471_app.mihon.jpg",
+      "id": "b94c2be7-7b97-4a90-be19-488a75fbb16a",
+      "sequence": 40,
+      "start_time": 101.48,
+      "end_time": 105.94,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-06-174_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-06-174_app.mihon.jpg",
+      "id": "82bc60b9-4e27-4974-a429-d690f57ec97a",
+      "sequence": 41,
+      "start_time": 106.68,
+      "end_time": 108.14,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-12-290_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-12-290_app.mihon.jpg",
+      "id": "60d65341-ecd5-416f-a58b-c0615f193dc5",
+      "sequence": 42,
+      "start_time": 108.64,
+      "end_time": 110.8,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-26-367_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-26-367_app.mihon.jpg",
+      "id": "91454e16-a8a6-47e1-97c6-28a78beadc40",
+      "sequence": 43,
+      "start_time": 110.8,
+      "end_time": 111.94,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-31-869_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-31-869_app.mihon.jpg",
+      "id": "eb4ba8c3-9578-49cb-8075-a4a1eae9a61c",
+      "sequence": 44,
+      "start_time": 112.8,
+      "end_time": 114.58,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-44-831_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-44-831_app.mihon.jpg",
+      "id": "1998884c-959d-438f-b4a2-8f519d344eae",
+      "sequence": 45,
+      "start_time": 115.24,
+      "end_time": 116.1,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-51-057_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-51-057_app.mihon.jpg",
+      "id": "d9d8c53f-34f4-4ede-9380-d9277f046fe6",
+      "sequence": 46,
+      "start_time": 116.7,
+      "end_time": 119.28,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-52-56-479_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-52-56-479_app.mihon.jpg",
+      "id": "70ed59f6-f5dc-41ef-9451-ec83106067f6",
+      "sequence": 47,
+      "start_time": 119.92,
+      "end_time": 121.6,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-53-01-342_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-53-01-342_app.mihon.jpg",
+      "id": "f4a75f48-a8b7-4519-93e2-33babbfadbfd",
+      "sequence": 48,
+      "start_time": 122.1,
+      "end_time": 122.88,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-53-03-537_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-53-03-537_app.mihon.jpg",
+      "id": "c422667d-b73d-4801-85a1-14cf921995fa",
+      "sequence": 49,
+      "start_time": 123.16,
+      "end_time": 124.42,
+      "effect": "slide_up",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-53-10-199_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-53-10-199_app.mihon.jpg",
+      "id": "c1ea585f-1996-4ae0-815b-811ea0bbc8a6",
+      "sequence": 50,
+      "start_time": 124.66,
+      "end_time": 125.48,
+      "effect": "slide_down",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-53-14-884_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-53-14-884_app.mihon.jpg",
+      "id": "60e4f231-d448-4d2e-8612-909aa890718c",
+      "sequence": 51,
+      "start_time": 126.42,
+      "end_time": 128.419,
+      "effect": "zoom_in",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-53-26-743_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-53-26-743_app.mihon.jpg",
+      "id": "bd203e12-00f3-4e0d-af52-8247a7b7b9a4",
+      "sequence": 52,
+      "start_time": 128.94,
+      "end_time": 134.86,
+      "effect": "slide_left",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/Part 10/Screenshot_2026-09-22-14-53-31-706_app.mihon.jpg",
+      "original_file": "Screenshot_2026-09-22-14-53-31-706_app.mihon.jpg",
+      "id": "8801fefd-4733-41f5-944c-2172d001ebbd",
+      "sequence": 53,
+      "start_time": 0.0,
+      "end_time": 0.0,
+      "effect": "slide_right",
+      "effect_source": "auto",
+      "zoom_anchor": "center"
+    }
+  ],
+  "audio_path": "C:/Users/Admin/Downloads/ElevenLabs_2026-09-22T05_29_58_Adam - Distinct, Deep and Engaging_pvc_sp100_s50_sb75_v3.mp3",
+  "transcript_path": "C:/Users/Admin/Downloads/ElevenLabs_2026-09-22T05_29_58_Adam_-_Distinct_Deep_and_Engaging_pvc_sp100_s50_sb75_v3_eng (1).json",
+  "words": [
+    {
+      "text": "The",
+      "start": 0.1,
+      "end": 0.18
+    },
+    {
+      "text": "outskirts",
+      "start": 0.26,
+      "end": 0.74
+    },
+    {
+      "text": "of",
+      "start": 0.78,
+      "end": 0.86
+    },
+    {
+      "text": "the",
+      "start": 0.9,
+      "end": 0.96
+    },
+    {
+      "text": "Ebelstein",
+      "start": 1.02,
+      "end": 1.52
+    },
+    {
+      "text": "Labyrinth.",
+      "start": 1.6,
+      "end": 2.12
+    },
+    {
+      "text": "Derek,",
+      "start": 2.78,
+      "end": 3.12
+    },
+    {
+      "text": "along",
+      "start": 3.2,
+      "end": 3.46
+    },
+    {
+      "text": "with",
+      "start": 3.5,
+      "end": 3.6
+    },
+    {
+      "text": "his",
+      "start": 3.62,
+      "end": 3.78
+    },
+    {
+      "text": "friends",
+      "start": 3.84,
+      "end": 4.38
+    },
+    {
+      "text": "and",
+      "start": 4.46,
+      "end": 4.58
+    },
+    {
+      "text": "Elente.",
+      "start": 4.66,
+      "end": 5.16
+    },
+    {
+      "text": "\"Wait,",
+      "start": 5.24,
+      "end": 6.52
+    },
+    {
+      "text": "you're",
+      "start": 7.0,
+      "end": 7.14
+    },
+    {
+      "text": "asking",
+      "start": 7.22,
+      "end": 7.54
+    },
+    {
+      "text": "me",
+      "start": 7.6,
+      "end": 7.78
+    },
+    {
+      "text": "to",
+      "start": 7.82,
+      "end": 7.9
+    },
+    {
+      "text": "go",
+      "start": 7.94,
+      "end": 8.06
+    },
+    {
+      "text": "into",
+      "start": 8.1,
+      "end": 8.28
+    },
+    {
+      "text": "a",
+      "start": 8.34,
+      "end": 8.42
+    },
+    {
+      "text": "labyrinth?",
+      "start": 8.48,
+      "end": 8.98
+    },
+    {
+      "text": "Me?\"",
+      "start": 9.42,
+      "end": 9.72
+    },
+    {
+      "text": "\"It's",
+      "start": 9.72,
+      "end": 10.98
+    },
+    {
+      "text": "the",
+      "start": 11.04,
+      "end": 11.12
+    },
+    {
+      "text": "lowest",
+      "start": 11.16,
+      "end": 11.48
+    },
+    {
+      "text": "ranked",
+      "start": 11.56,
+      "end": 11.82
+    },
+    {
+      "text": "one.",
+      "start": 11.94,
+      "end": 12.1
+    },
+    {
+      "text": "Shouldn't",
+      "start": 12.34,
+      "end": 12.54
+    },
+    {
+      "text": "be",
+      "start": 12.58,
+      "end": 12.68
+    },
+    {
+      "text": "too",
+      "start": 12.74,
+      "end": 12.86
+    },
+    {
+      "text": "difficult.",
+      "start": 12.92,
+      "end": 13.36
+    },
+    {
+      "text": "You",
+      "start": 13.92,
+      "end": 13.98
+    },
+    {
+      "text": "need",
+      "start": 14.0,
+      "end": 14.12
+    },
+    {
+      "text": "to",
+      "start": 14.14,
+      "end": 14.22
+    },
+    {
+      "text": "develop",
+      "start": 14.26,
+      "end": 14.64
+    },
+    {
+      "text": "real",
+      "start": 14.82,
+      "end": 15.08
+    },
+    {
+      "text": "combat",
+      "start": 15.16,
+      "end": 15.56
+    },
+    {
+      "text": "instincts.\"",
+      "start": 15.62,
+      "end": 16.16
+    },
+    {
+      "text": "Elente",
+      "start": 17.08,
+      "end": 17.48
+    },
+    {
+      "text": "is",
+      "start": 17.54,
+      "end": 17.66
+    },
+    {
+      "text": "scared,",
+      "start": 17.76,
+      "end": 18.18
+    },
+    {
+      "text": "but",
+      "start": 18.36,
+      "end": 18.48
+    },
+    {
+      "text": "Derek",
+      "start": 18.54,
+      "end": 18.84
+    },
+    {
+      "text": "reminds",
+      "start": 18.88,
+      "end": 19.3
+    },
+    {
+      "text": "her,",
+      "start": 19.34,
+      "end": 19.46
+    },
+    {
+      "text": "\"The",
+      "start": 19.78,
+      "end": 19.9
+    },
+    {
+      "text": "spar",
+      "start": 20.0,
+      "end": 20.3
+    },
+    {
+      "text": "is",
+      "start": 20.34,
+      "end": 20.44
+    },
+    {
+      "text": "only",
+      "start": 20.5,
+      "end": 20.76
+    },
+    {
+      "text": "days",
+      "start": 20.82,
+      "end": 21.06
+    },
+    {
+      "text": "away.",
+      "start": 21.12,
+      "end": 21.54
+    },
+    {
+      "text": "When",
+      "start": 22.12,
+      "end": 22.26
+    },
+    {
+      "text": "time",
+      "start": 22.34,
+      "end": 22.58
+    },
+    {
+      "text": "is",
+      "start": 22.64,
+      "end": 22.76
+    },
+    {
+      "text": "this",
+      "start": 22.82,
+      "end": 23.0
+    },
+    {
+      "text": "short,",
+      "start": 23.06,
+      "end": 23.38
+    },
+    {
+      "text": "this",
+      "start": 23.64,
+      "end": 23.8
+    },
+    {
+      "text": "is",
+      "start": 23.86,
+      "end": 23.96
+    },
+    {
+      "text": "the",
+      "start": 24.02,
+      "end": 24.18
+    },
+    {
+      "text": "best",
+      "start": 24.22,
+      "end": 24.5
+    },
+    {
+      "text": "method",
+      "start": 24.56,
+      "end": 24.86
+    },
+    {
+      "text": "there",
+      "start": 24.9,
+      "end": 25.08
+    },
+    {
+      "text": "is.\"",
+      "start": 25.16,
+      "end": 25.42
+    },
+    {
+      "text": "They",
+      "start": 26.32,
+      "end": 26.4
+    },
+    {
+      "text": "enter",
+      "start": 26.48,
+      "end": 26.68
+    },
+    {
+      "text": "the",
+      "start": 26.72,
+      "end": 26.8
+    },
+    {
+      "text": "labyrinth.",
+      "start": 26.86,
+      "end": 27.32
+    },
+    {
+      "text": "Elente",
+      "start": 27.9,
+      "end": 28.34
+    },
+    {
+      "text": "is",
+      "start": 28.4,
+      "end": 28.5
+    },
+    {
+      "text": "disgusted",
+      "start": 28.56,
+      "end": 29.2
+    },
+    {
+      "text": "by",
+      "start": 29.24,
+      "end": 29.34
+    },
+    {
+      "text": "the",
+      "start": 29.38,
+      "end": 29.46
+    },
+    {
+      "text": "surroundings.",
+      "start": 29.52,
+      "end": 30.12
+    },
+    {
+      "text": "Derek",
+      "start": 30.72,
+      "end": 31.04
+    },
+    {
+      "text": "tells",
+      "start": 31.1,
+      "end": 31.3
+    },
+    {
+      "text": "her",
+      "start": 31.32,
+      "end": 31.42
+    },
+    {
+      "text": "to",
+      "start": 31.44,
+      "end": 31.54
+    },
+    {
+      "text": "stay",
+      "start": 31.62,
+      "end": 31.8
+    },
+    {
+      "text": "alert.",
+      "start": 31.86,
+      "end": 32.259
+    },
+    {
+      "text": "Several",
+      "start": 32.98,
+      "end": 33.3
+    },
+    {
+      "text": "goblins",
+      "start": 33.34,
+      "end": 33.76
+    },
+    {
+      "text": "appear",
+      "start": 33.82,
+      "end": 34.1
+    },
+    {
+      "text": "ahead",
+      "start": 34.16,
+      "end": 34.52
+    },
+    {
+      "text": "along",
+      "start": 34.88,
+      "end": 35.28
+    },
+    {
+      "text": "with",
+      "start": 35.3,
+      "end": 35.44
+    },
+    {
+      "text": "something",
+      "start": 35.5,
+      "end": 35.92
+    },
+    {
+      "text": "bigger,",
+      "start": 35.98,
+      "end": 36.38
+    },
+    {
+      "text": "an",
+      "start": 36.9,
+      "end": 37.08
+    },
+    {
+      "text": "ogre.",
+      "start": 37.22,
+      "end": 37.64
+    },
+    {
+      "text": "The",
+      "start": 38.3,
+      "end": 38.4
+    },
+    {
+      "text": "big",
+      "start": 38.44,
+      "end": 38.6
+    },
+    {
+      "text": "guy",
+      "start": 38.66,
+      "end": 38.86
+    },
+    {
+      "text": "takes",
+      "start": 38.94,
+      "end": 39.16
+    },
+    {
+      "text": "the",
+      "start": 39.2,
+      "end": 39.28
+    },
+    {
+      "text": "ogre.",
+      "start": 39.38,
+      "end": 39.66
+    },
+    {
+      "text": "Derek",
+      "start": 39.98,
+      "end": 40.3
+    },
+    {
+      "text": "and",
+      "start": 40.34,
+      "end": 40.4
+    },
+    {
+      "text": "the",
+      "start": 40.44,
+      "end": 40.52
+    },
+    {
+      "text": "other",
+      "start": 40.58,
+      "end": 40.76
+    },
+    {
+      "text": "girl",
+      "start": 40.82,
+      "end": 41.08
+    },
+    {
+      "text": "handle",
+      "start": 41.14,
+      "end": 41.36
+    },
+    {
+      "text": "the",
+      "start": 41.4,
+      "end": 41.48
+    },
+    {
+      "text": "goblins.",
+      "start": 41.54,
+      "end": 42.04
+    },
+    {
+      "text": "Multiple",
+      "start": 43.02,
+      "end": 43.46
+    },
+    {
+      "text": "pairs",
+      "start": 43.54,
+      "end": 43.84
+    },
+    {
+      "text": "of",
+      "start": 43.88,
+      "end": 43.96
+    },
+    {
+      "text": "eyes",
+      "start": 44.06,
+      "end": 44.4
+    },
+    {
+      "text": "glow",
+      "start": 44.46,
+      "end": 44.8
+    },
+    {
+      "text": "in",
+      "start": 44.86,
+      "end": 44.92
+    },
+    {
+      "text": "the",
+      "start": 44.96,
+      "end": 45.04
+    },
+    {
+      "text": "dark.",
+      "start": 45.1,
+      "end": 45.44
+    },
+    {
+      "text": "\"Th-",
+      "start": 45.44,
+      "end": 46.28
+    },
+    {
+      "text": "they're",
+      "start": 46.7,
+      "end": 46.92
+    },
+    {
+      "text": "real",
+      "start": 47.0,
+      "end": 47.26
+    },
+    {
+      "text": "monsters.\"",
+      "start": 47.34,
+      "end": 47.98
+    },
+    {
+      "text": "The",
+      "start": 48.84,
+      "end": 48.94
+    },
+    {
+      "text": "goblins",
+      "start": 49.0,
+      "end": 49.5
+    },
+    {
+      "text": "charge.",
+      "start": 49.58,
+      "end": 50.14
+    },
+    {
+      "text": "Derek",
+      "start": 50.7,
+      "end": 51.0
+    },
+    {
+      "text": "takes",
+      "start": 51.04,
+      "end": 51.2
+    },
+    {
+      "text": "a",
+      "start": 51.26,
+      "end": 51.3
+    },
+    {
+      "text": "step",
+      "start": 51.36,
+      "end": 51.58
+    },
+    {
+      "text": "back.",
+      "start": 51.64,
+      "end": 51.96
+    },
+    {
+      "text": "Elente",
+      "start": 52.46,
+      "end": 52.94
+    },
+    {
+      "text": "is",
+      "start": 53.0,
+      "end": 53.08
+    },
+    {
+      "text": "still",
+      "start": 53.16,
+      "end": 53.42
+    },
+    {
+      "text": "frozen",
+      "start": 53.5,
+      "end": 53.94
+    },
+    {
+      "text": "in",
+      "start": 53.98,
+      "end": 54.08
+    },
+    {
+      "text": "horror.",
+      "start": 54.16,
+      "end": 54.6
+    },
+    {
+      "text": "Derek",
+      "start": 55.42,
+      "end": 55.72
+    },
+    {
+      "text": "takes",
+      "start": 55.78,
+      "end": 55.96
+    },
+    {
+      "text": "the",
+      "start": 56.0,
+      "end": 56.08
+    },
+    {
+      "text": "front",
+      "start": 56.14,
+      "end": 56.34
+    },
+    {
+      "text": "line,",
+      "start": 56.4,
+      "end": 56.72
+    },
+    {
+      "text": "the",
+      "start": 56.92,
+      "end": 57.04
+    },
+    {
+      "text": "girl",
+      "start": 57.08,
+      "end": 57.4
+    },
+    {
+      "text": "covering",
+      "start": 57.48,
+      "end": 57.82
+    },
+    {
+      "text": "from",
+      "start": 57.86,
+      "end": 57.98
+    },
+    {
+      "text": "behind.",
+      "start": 58.0,
+      "end": 58.56
+    },
+    {
+      "text": "Derek",
+      "start": 59.24,
+      "end": 59.58
+    },
+    {
+      "text": "charges",
+      "start": 59.64,
+      "end": 60.06
+    },
+    {
+      "text": "in.",
+      "start": 60.16,
+      "end": 60.36
+    },
+    {
+      "text": "She",
+      "start": 60.72,
+      "end": 60.88
+    },
+    {
+      "text": "fires",
+      "start": 60.96,
+      "end": 61.26
+    },
+    {
+      "text": "her",
+      "start": 61.3,
+      "end": 61.44
+    },
+    {
+      "text": "bow",
+      "start": 61.5,
+      "end": 61.74
+    },
+    {
+      "text": "taking",
+      "start": 61.84,
+      "end": 62.14
+    },
+    {
+      "text": "one",
+      "start": 62.24,
+      "end": 62.4
+    },
+    {
+      "text": "down.",
+      "start": 62.46,
+      "end": 62.82
+    },
+    {
+      "text": "Derek",
+      "start": 63.36,
+      "end": 63.68
+    },
+    {
+      "text": "takes",
+      "start": 63.72,
+      "end": 63.9
+    },
+    {
+      "text": "another.",
+      "start": 63.96,
+      "end": 64.379
+    },
+    {
+      "text": "He",
+      "start": 64.879,
+      "end": 64.98
+    },
+    {
+      "text": "casts",
+      "start": 65.06,
+      "end": 65.4
+    },
+    {
+      "text": "a",
+      "start": 65.44,
+      "end": 65.519
+    },
+    {
+      "text": "fire",
+      "start": 65.6,
+      "end": 65.9
+    },
+    {
+      "text": "spell.",
+      "start": 66.0,
+      "end": 66.28
+    },
+    {
+      "text": "She",
+      "start": 66.7,
+      "end": 66.86
+    },
+    {
+      "text": "readies",
+      "start": 66.92,
+      "end": 67.18
+    },
+    {
+      "text": "another",
+      "start": 67.22,
+      "end": 67.54
+    },
+    {
+      "text": "shot",
+      "start": 67.6,
+      "end": 67.84
+    },
+    {
+      "text": "taking",
+      "start": 67.98,
+      "end": 68.26
+    },
+    {
+      "text": "down",
+      "start": 68.32,
+      "end": 68.6
+    },
+    {
+      "text": "one",
+      "start": 68.7,
+      "end": 68.84
+    },
+    {
+      "text": "more.",
+      "start": 68.9,
+      "end": 69.26
+    },
+    {
+      "text": "Elente",
+      "start": 70.0,
+      "end": 70.48
+    },
+    {
+      "text": "is",
+      "start": 70.52,
+      "end": 70.66
+    },
+    {
+      "text": "still",
+      "start": 70.78,
+      "end": 71.08
+    },
+    {
+      "text": "horrified.",
+      "start": 71.16,
+      "end": 71.78
+    },
+    {
+      "text": "The",
+      "start": 72.52,
+      "end": 72.6
+    },
+    {
+      "text": "big",
+      "start": 72.68,
+      "end": 72.86
+    },
+    {
+      "text": "guy",
+      "start": 72.9,
+      "end": 73.14
+    },
+    {
+      "text": "faces",
+      "start": 73.22,
+      "end": 73.54
+    },
+    {
+      "text": "the",
+      "start": 73.6,
+      "end": 73.7
+    },
+    {
+      "text": "ogre",
+      "start": 73.78,
+      "end": 74.04
+    },
+    {
+      "text": "swinging",
+      "start": 74.3,
+      "end": 74.62
+    },
+    {
+      "text": "his",
+      "start": 74.64,
+      "end": 74.78
+    },
+    {
+      "text": "sword",
+      "start": 74.86,
+      "end": 75.2
+    },
+    {
+      "text": "severing",
+      "start": 75.52,
+      "end": 75.9
+    },
+    {
+      "text": "one",
+      "start": 75.98,
+      "end": 76.06
+    },
+    {
+      "text": "of",
+      "start": 76.1,
+      "end": 76.14
+    },
+    {
+      "text": "its",
+      "start": 76.18,
+      "end": 76.3
+    },
+    {
+      "text": "arms.",
+      "start": 76.42,
+      "end": 76.76
+    },
+    {
+      "text": "\"These",
+      "start": 76.76,
+      "end": 77.94
+    },
+    {
+      "text": "monsters",
+      "start": 78.02,
+      "end": 78.42
+    },
+    {
+      "text": "are",
+      "start": 78.46,
+      "end": 78.62
+    },
+    {
+      "text": "really",
+      "start": 78.68,
+      "end": 78.94
+    },
+    {
+      "text": "trying",
+      "start": 79.0,
+      "end": 79.24
+    },
+    {
+      "text": "to",
+      "start": 79.28,
+      "end": 79.36
+    },
+    {
+      "text": "kill",
+      "start": 79.44,
+      "end": 79.64
+    },
+    {
+      "text": "me.",
+      "start": 79.7,
+      "end": 79.9
+    },
+    {
+      "text": "I",
+      "start": 80.44,
+      "end": 80.48
+    },
+    {
+      "text": "could",
+      "start": 80.52,
+      "end": 80.64
+    },
+    {
+      "text": "actually",
+      "start": 80.72,
+      "end": 81.14
+    },
+    {
+      "text": "die.\"",
+      "start": 81.2,
+      "end": 81.7
+    },
+    {
+      "text": "Derek",
+      "start": 82.54,
+      "end": 82.84
+    },
+    {
+      "text": "shouts,",
+      "start": 82.9,
+      "end": 83.26
+    },
+    {
+      "text": "calling",
+      "start": 83.4,
+      "end": 83.7
+    },
+    {
+      "text": "out",
+      "start": 83.78,
+      "end": 83.9
+    },
+    {
+      "text": "to",
+      "start": 83.94,
+      "end": 84.04
+    },
+    {
+      "text": "her.",
+      "start": 84.08,
+      "end": 84.22
+    },
+    {
+      "text": "One",
+      "start": 84.76,
+      "end": 84.92
+    },
+    {
+      "text": "monster",
+      "start": 84.98,
+      "end": 85.38
+    },
+    {
+      "text": "is",
+      "start": 85.42,
+      "end": 85.54
+    },
+    {
+      "text": "closing",
+      "start": 85.62,
+      "end": 86.06
+    },
+    {
+      "text": "in",
+      "start": 86.14,
+      "end": 86.26
+    },
+    {
+      "text": "on",
+      "start": 86.32,
+      "end": 86.4
+    },
+    {
+      "text": "her",
+      "start": 86.44,
+      "end": 86.56
+    },
+    {
+      "text": "position.",
+      "start": 86.6,
+      "end": 87.08
+    },
+    {
+      "text": "\"Stay",
+      "start": 87.08,
+      "end": 88.28
+    },
+    {
+      "text": "focused.\"",
+      "start": 88.36,
+      "end": 88.84
+    },
+    {
+      "text": "A",
+      "start": 89.44,
+      "end": 89.52
+    },
+    {
+      "text": "goblin",
+      "start": 89.58,
+      "end": 90.04
+    },
+    {
+      "text": "charges",
+      "start": 90.12,
+      "end": 90.58
+    },
+    {
+      "text": "straight",
+      "start": 90.7,
+      "end": 91.0
+    },
+    {
+      "text": "at",
+      "start": 91.1,
+      "end": 91.2
+    },
+    {
+      "text": "her.",
+      "start": 91.22,
+      "end": 91.36
+    },
+    {
+      "text": "\"I'm",
+      "start": 91.46,
+      "end": 92.38
+    },
+    {
+      "text": "going",
+      "start": 92.42,
+      "end": 92.6
+    },
+    {
+      "text": "to",
+      "start": 92.64,
+      "end": 92.72
+    },
+    {
+      "text": "die!\"",
+      "start": 92.78,
+      "end": 93.22
+    },
+    {
+      "text": "\"You",
+      "start": 93.9,
+      "end": 94.0
+    },
+    {
+      "text": "need",
+      "start": 94.08,
+      "end": 94.26
+    },
+    {
+      "text": "to",
+      "start": 94.28,
+      "end": 94.4
+    },
+    {
+      "text": "kill",
+      "start": 94.48,
+      "end": 94.66
+    },
+    {
+      "text": "it!\"",
+      "start": 94.72,
+      "end": 94.86
+    },
+    {
+      "text": "Then",
+      "start": 95.62,
+      "end": 95.86
+    },
+    {
+      "text": "she",
+      "start": 95.92,
+      "end": 96.06
+    },
+    {
+      "text": "remembers",
+      "start": 96.1,
+      "end": 96.62
+    },
+    {
+      "text": "what",
+      "start": 97.3,
+      "end": 97.42
+    },
+    {
+      "text": "she",
+      "start": 97.48,
+      "end": 97.62
+    },
+    {
+      "text": "said",
+      "start": 97.68,
+      "end": 97.84
+    },
+    {
+      "text": "about",
+      "start": 97.9,
+      "end": 98.06
+    },
+    {
+      "text": "her",
+      "start": 98.1,
+      "end": 98.24
+    },
+    {
+      "text": "own",
+      "start": 98.32,
+      "end": 98.54
+    },
+    {
+      "text": "flaws.",
+      "start": 98.62,
+      "end": 99.1
+    },
+    {
+      "text": "The",
+      "start": 99.96,
+      "end": 100.08
+    },
+    {
+      "text": "goblin",
+      "start": 100.14,
+      "end": 100.56
+    },
+    {
+      "text": "leaps.",
+      "start": 100.64,
+      "end": 101.02
+    },
+    {
+      "text": "Her",
+      "start": 101.48,
+      "end": 101.6
+    },
+    {
+      "text": "past",
+      "start": 101.68,
+      "end": 102.02
+    },
+    {
+      "text": "self,",
+      "start": 102.1,
+      "end": 102.42
+    },
+    {
+      "text": "the",
+      "start": 102.66,
+      "end": 102.74
+    },
+    {
+      "text": "one",
+      "start": 102.82,
+      "end": 102.92
+    },
+    {
+      "text": "who",
+      "start": 102.98,
+      "end": 103.12
+    },
+    {
+      "text": "only",
+      "start": 103.22,
+      "end": 103.54
+    },
+    {
+      "text": "knew",
+      "start": 103.6,
+      "end": 103.76
+    },
+    {
+      "text": "envy,",
+      "start": 103.84,
+      "end": 104.16
+    },
+    {
+      "text": "who",
+      "start": 104.36,
+      "end": 104.46
+    },
+    {
+      "text": "only",
+      "start": 104.54,
+      "end": 104.82
+    },
+    {
+      "text": "tore",
+      "start": 104.9,
+      "end": 105.18
+    },
+    {
+      "text": "others",
+      "start": 105.26,
+      "end": 105.52
+    },
+    {
+      "text": "down,",
+      "start": 105.58,
+      "end": 105.94
+    },
+    {
+      "text": "versus",
+      "start": 106.68,
+      "end": 107.02
+    },
+    {
+      "text": "who",
+      "start": 107.1,
+      "end": 107.26
+    },
+    {
+      "text": "she",
+      "start": 107.32,
+      "end": 107.46
+    },
+    {
+      "text": "is",
+      "start": 107.54,
+      "end": 107.74
+    },
+    {
+      "text": "now",
+      "start": 107.8,
+      "end": 108.14
+    },
+    {
+      "text": "someone",
+      "start": 108.64,
+      "end": 108.92
+    },
+    {
+      "text": "who",
+      "start": 108.96,
+      "end": 109.1
+    },
+    {
+      "text": "wants",
+      "start": 109.14,
+      "end": 109.38
+    },
+    {
+      "text": "to",
+      "start": 109.42,
+      "end": 109.54
+    },
+    {
+      "text": "kill",
+      "start": 109.62,
+      "end": 109.88
+    },
+    {
+      "text": "that",
+      "start": 109.94,
+      "end": 110.08
+    },
+    {
+      "text": "old",
+      "start": 110.14,
+      "end": 110.32
+    },
+    {
+      "text": "self",
+      "start": 110.4,
+      "end": 110.76
+    },
+    {
+      "text": "and",
+      "start": 110.8,
+      "end": 110.88
+    },
+    {
+      "text": "become",
+      "start": 110.92,
+      "end": 111.28
+    },
+    {
+      "text": "stronger.",
+      "start": 111.36,
+      "end": 111.94
+    },
+    {
+      "text": "The",
+      "start": 112.8,
+      "end": 112.9
+    },
+    {
+      "text": "goblin's",
+      "start": 112.94,
+      "end": 113.4
+    },
+    {
+      "text": "claws",
+      "start": 113.48,
+      "end": 113.92
+    },
+    {
+      "text": "come",
+      "start": 113.96,
+      "end": 114.14
+    },
+    {
+      "text": "down.",
+      "start": 114.2,
+      "end": 114.58
+    },
+    {
+      "text": "Derek",
+      "start": 115.24,
+      "end": 115.58
+    },
+    {
+      "text": "watches.",
+      "start": 115.64,
+      "end": 116.1
+    },
+    {
+      "text": "The",
+      "start": 116.7,
+      "end": 116.8
+    },
+    {
+      "text": "goblin",
+      "start": 116.86,
+      "end": 117.24
+    },
+    {
+      "text": "is",
+      "start": 117.3,
+      "end": 117.42
+    },
+    {
+      "text": "struck",
+      "start": 117.54,
+      "end": 117.82
+    },
+    {
+      "text": "down",
+      "start": 117.88,
+      "end": 118.2
+    },
+    {
+      "text": "by",
+      "start": 118.24,
+      "end": 118.34
+    },
+    {
+      "text": "an",
+      "start": 118.4,
+      "end": 118.5
+    },
+    {
+      "text": "ice",
+      "start": 118.6,
+      "end": 118.76
+    },
+    {
+      "text": "spear.",
+      "start": 118.88,
+      "end": 119.18
+    },
+    {
+      "text": "The",
+      "start": 119.92,
+      "end": 120.04
+    },
+    {
+      "text": "big",
+      "start": 120.08,
+      "end": 120.26
+    },
+    {
+      "text": "guy",
+      "start": 120.32,
+      "end": 120.58
+    },
+    {
+      "text": "nods",
+      "start": 120.66,
+      "end": 120.98
+    },
+    {
+      "text": "in",
+      "start": 121.02,
+      "end": 121.08
+    },
+    {
+      "text": "approval.",
+      "start": 121.12,
+      "end": 121.6
+    },
+    {
+      "text": "So",
+      "start": 122.1,
+      "end": 122.24
+    },
+    {
+      "text": "does",
+      "start": 122.28,
+      "end": 122.4
+    },
+    {
+      "text": "the",
+      "start": 122.44,
+      "end": 122.52
+    },
+    {
+      "text": "girl",
+      "start": 122.58,
+      "end": 122.88
+    },
+    {
+      "text": "taking",
+      "start": 123.16,
+      "end": 123.46
+    },
+    {
+      "text": "down",
+      "start": 123.52,
+      "end": 123.82
+    },
+    {
+      "text": "one",
+      "start": 123.94,
+      "end": 124.08
+    },
+    {
+      "text": "more",
+      "start": 124.14,
+      "end": 124.42
+    },
+    {
+      "text": "catching",
+      "start": 124.66,
+      "end": 124.92
+    },
+    {
+      "text": "her",
+      "start": 124.96,
+      "end": 125.08
+    },
+    {
+      "text": "breath.",
+      "start": 125.12,
+      "end": 125.48
+    },
+    {
+      "text": "Elente",
+      "start": 126.42,
+      "end": 126.88
+    },
+    {
+      "text": "finally",
+      "start": 126.94,
+      "end": 127.3
+    },
+    {
+      "text": "takes",
+      "start": 127.36,
+      "end": 127.54
+    },
+    {
+      "text": "a",
+      "start": 127.6,
+      "end": 127.66
+    },
+    {
+      "text": "step",
+      "start": 127.72,
+      "end": 127.94
+    },
+    {
+      "text": "forward.",
+      "start": 128.0,
+      "end": 128.419
+    },
+    {
+      "text": "No,",
+      "start": 128.94,
+      "end": 129.18
+    },
+    {
+      "text": "not",
+      "start": 129.699,
+      "end": 129.94
+    },
+    {
+      "text": "just",
+      "start": 130.02,
+      "end": 130.199
+    },
+    {
+      "text": "a",
+      "start": 130.259,
+      "end": 130.32
+    },
+    {
+      "text": "step,",
+      "start": 130.4,
+      "end": 130.68
+    },
+    {
+      "text": "her",
+      "start": 131.24,
+      "end": 131.44
+    },
+    {
+      "text": "first",
+      "start": 131.54,
+      "end": 131.94
+    },
+    {
+      "text": "step.",
+      "start": 132.04,
+      "end": 132.34
+    },
+    {
+      "text": "Like",
+      "start": 133.2,
+      "end": 133.38
+    },
+    {
+      "text": "and",
+      "start": 133.42,
+      "end": 133.54
+    },
+    {
+      "text": "follow",
+      "start": 133.6,
+      "end": 133.94
+    },
+    {
+      "text": "for",
+      "start": 134.0,
+      "end": 134.14
+    },
+    {
+      "text": "part",
+      "start": 134.2,
+      "end": 134.38
+    },
+    {
+      "text": "11.",
+      "start": 134.44,
+      "end": 134.86
+    }
+  ],
+  "segments": [
+    {
+      "text": "The outskirts of the Ebelstein Labyrinth.",
+      "start": 0.1,
+      "end": 2.12
+    },
+    {
+      "text": "Derek, along with his friends and Elente.",
+      "start": 2.78,
+      "end": 5.24
+    },
+    {
+      "text": "\"Wait, you're asking me to go into a labyrinth? Me?\" \"It's the lowest ranked one. Shouldn't be too difficult.",
+      "start": 5.24,
+      "end": 13.36
+    },
+    {
+      "text": "You need to develop real combat instincts.\"",
+      "start": 13.92,
+      "end": 16.16
+    },
+    {
+      "text": "Elente is scared, but Derek reminds her, \"The spar is only days away.",
+      "start": 17.08,
+      "end": 21.54
+    },
+    {
+      "text": "When time is this short, this is the best method there is.\"",
+      "start": 22.12,
+      "end": 25.42
+    },
+    {
+      "text": "They enter the labyrinth.",
+      "start": 26.32,
+      "end": 27.32
+    },
+    {
+      "text": "Elente is disgusted by the surroundings.",
+      "start": 27.9,
+      "end": 30.12
+    },
+    {
+      "text": "Derek tells her to stay alert.",
+      "start": 30.72,
+      "end": 32.259
+    },
+    {
+      "text": "Several goblins appear ahead",
+      "start": 32.98,
+      "end": 34.52
+    },
+    {
+      "text": "along with something bigger, an ogre.",
+      "start": 34.88,
+      "end": 37.64
+    },
+    {
+      "text": "The big guy takes the ogre. Derek and the other girl handle the goblins.",
+      "start": 38.3,
+      "end": 42.12
+    },
+    {
+      "text": "Multiple pairs of eyes glow in the dark.",
+      "start": 43.02,
+      "end": 45.44
+    },
+    {
+      "text": "\"Th- they're real monsters.\"",
+      "start": 45.44,
+      "end": 48.04
+    },
+    {
+      "text": "The goblins charge.",
+      "start": 48.84,
+      "end": 50.14
+    },
+    {
+      "text": "Derek takes a step back.",
+      "start": 50.7,
+      "end": 51.96
+    },
+    {
+      "text": "Elente is still frozen in horror.",
+      "start": 52.46,
+      "end": 54.6
+    },
+    {
+      "text": "Derek takes the front line, the girl covering from behind.",
+      "start": 55.42,
+      "end": 58.56
+    },
+    {
+      "text": "Derek charges in.",
+      "start": 59.24,
+      "end": 60.72
+    },
+    {
+      "text": "She fires her bow",
+      "start": 60.72,
+      "end": 61.74
+    },
+    {
+      "text": "taking one down.",
+      "start": 61.84,
+      "end": 62.84
+    },
+    {
+      "text": "Derek takes another.",
+      "start": 63.36,
+      "end": 64.379
+    },
+    {
+      "text": "He casts a fire spell.",
+      "start": 64.879,
+      "end": 66.7
+    },
+    {
+      "text": "She readies another shot",
+      "start": 66.7,
+      "end": 67.84
+    },
+    {
+      "text": "taking down one more.",
+      "start": 67.98,
+      "end": 69.26
+    },
+    {
+      "text": "Elente is still horrified.",
+      "start": 70.0,
+      "end": 71.84
+    },
+    {
+      "text": "The big guy faces the ogre",
+      "start": 72.52,
+      "end": 74.04
+    },
+    {
+      "text": "swinging his sword",
+      "start": 74.3,
+      "end": 75.2
+    },
+    {
+      "text": "severing one of its arms.",
+      "start": 75.52,
+      "end": 76.76
+    },
+    {
+      "text": "\"These monsters are really trying to kill me. I could actually die.\"",
+      "start": 76.76,
+      "end": 81.7
+    },
+    {
+      "text": "Derek shouts, calling out to her.",
+      "start": 82.54,
+      "end": 84.32
+    },
+    {
+      "text": "One monster is closing in on her position. \"Stay focused.\"",
+      "start": 84.76,
+      "end": 88.84
+    },
+    {
+      "text": "A goblin charges straight at her.",
+      "start": 89.44,
+      "end": 91.46
+    },
+    {
+      "text": "\"I'm going to die!\"",
+      "start": 91.46,
+      "end": 93.22
+    },
+    {
+      "text": "\"You need to kill it!\"",
+      "start": 93.9,
+      "end": 94.92
+    },
+    {
+      "text": "Then she remembers",
+      "start": 95.62,
+      "end": 96.76
+    },
+    {
+      "text": "what she said",
+      "start": 97.3,
+      "end": 97.9
+    },
+    {
+      "text": "about her own flaws.",
+      "start": 97.9,
+      "end": 99.18
+    },
+    {
+      "text": "The goblin leaps.",
+      "start": 99.96,
+      "end": 101.02
+    },
+    {
+      "text": "Her past self, the one who only knew envy, who only tore others down,",
+      "start": 101.48,
+      "end": 105.94
+    },
+    {
+      "text": "versus who she is now",
+      "start": 106.68,
+      "end": 108.14
+    },
+    {
+      "text": "someone who wants to kill that old self",
+      "start": 108.64,
+      "end": 110.8
+    },
+    {
+      "text": "and become stronger.",
+      "start": 110.8,
+      "end": 111.94
+    },
+    {
+      "text": "The goblin's claws come down.",
+      "start": 112.8,
+      "end": 114.58
+    },
+    {
+      "text": "Derek watches.",
+      "start": 115.24,
+      "end": 116.1
+    },
+    {
+      "text": "The goblin is struck down by an ice spear.",
+      "start": 116.7,
+      "end": 119.28
+    },
+    {
+      "text": "The big guy nods in approval.",
+      "start": 119.92,
+      "end": 121.6
+    },
+    {
+      "text": "So does the girl",
+      "start": 122.1,
+      "end": 122.88
+    },
+    {
+      "text": "taking down one more",
+      "start": 123.16,
+      "end": 124.42
+    },
+    {
+      "text": "catching her breath.",
+      "start": 124.66,
+      "end": 125.48
+    },
+    {
+      "text": "Elente finally takes a step forward.",
+      "start": 126.42,
+      "end": 128.419
+    },
+    {
+      "text": "No, not just a step, her first step. Like and follow for part 11.",
+      "start": 128.94,
+      "end": 134.86
+    }
+  ],
+  "captions": [
+    {
+      "text": "THE OUTSKIRTS",
+      "start": 0.1,
+      "end": 0.74,
+      "words": [
+        {
+          "text": "The",
+          "start": 0.1,
+          "end": 0.18
+        },
+        {
+          "text": "outskirts",
+          "start": 0.26,
+          "end": 0.74
+        }
+      ]
+    },
+    {
+      "text": "OF THE",
+      "start": 0.78,
+      "end": 0.96,
+      "words": [
+        {
+          "text": "of",
+          "start": 0.78,
+          "end": 0.86
+        },
+        {
+          "text": "the",
+          "start": 0.9,
+          "end": 0.96
+        }
+      ]
+    },
+    {
+      "text": "EBELSTEIN LABYRINTH.",
+      "start": 1.02,
+      "end": 2.12,
+      "words": [
+        {
+          "text": "Ebelstein",
+          "start": 1.02,
+          "end": 1.52
+        },
+        {
+          "text": "Labyrinth.",
+          "start": 1.6,
+          "end": 2.12
+        }
+      ]
+    },
+    {
+      "text": "DEREK, ALONG",
+      "start": 2.78,
+      "end": 3.46,
+      "words": [
+        {
+          "text": "Derek,",
+          "start": 2.78,
+          "end": 3.12
+        },
+        {
+          "text": "along",
+          "start": 3.2,
+          "end": 3.46
+        }
+      ]
+    },
+    {
+      "text": "WITH HIS",
+      "start": 3.5,
+      "end": 3.78,
+      "words": [
+        {
+          "text": "with",
+          "start": 3.5,
+          "end": 3.6
+        },
+        {
+          "text": "his",
+          "start": 3.62,
+          "end": 3.78
+        }
+      ]
+    },
+    {
+      "text": "FRIENDS AND",
+      "start": 3.84,
+      "end": 4.58,
+      "words": [
+        {
+          "text": "friends",
+          "start": 3.84,
+          "end": 4.38
+        },
+        {
+          "text": "and",
+          "start": 4.46,
+          "end": 4.58
+        }
+      ]
+    },
+    {
+      "text": "ELENTE. \"WAIT,",
+      "start": 4.66,
+      "end": 6.52,
+      "words": [
+        {
+          "text": "Elente.",
+          "start": 4.66,
+          "end": 5.16
+        },
+        {
+          "text": "\"Wait,",
+          "start": 5.24,
+          "end": 6.52
+        }
+      ]
+    },
+    {
+      "text": "YOU'RE ASKING",
+      "start": 7.0,
+      "end": 7.54,
+      "words": [
+        {
+          "text": "you're",
+          "start": 7.0,
+          "end": 7.14
+        },
+        {
+          "text": "asking",
+          "start": 7.22,
+          "end": 7.54
+        }
+      ]
+    },
+    {
+      "text": "ME TO",
+      "start": 7.6,
+      "end": 7.9,
+      "words": [
+        {
+          "text": "me",
+          "start": 7.6,
+          "end": 7.78
+        },
+        {
+          "text": "to",
+          "start": 7.82,
+          "end": 7.9
+        }
+      ]
+    },
+    {
+      "text": "GO INTO",
+      "start": 7.94,
+      "end": 8.28,
+      "words": [
+        {
+          "text": "go",
+          "start": 7.94,
+          "end": 8.06
+        },
+        {
+          "text": "into",
+          "start": 8.1,
+          "end": 8.28
+        }
+      ]
+    },
+    {
+      "text": "A LABYRINTH?",
+      "start": 8.34,
+      "end": 8.98,
+      "words": [
+        {
+          "text": "a",
+          "start": 8.34,
+          "end": 8.42
+        },
+        {
+          "text": "labyrinth?",
+          "start": 8.48,
+          "end": 8.98
+        }
+      ]
+    },
+    {
+      "text": "ME?\" \"IT'S",
+      "start": 9.42,
+      "end": 10.98,
+      "words": [
+        {
+          "text": "Me?\"",
+          "start": 9.42,
+          "end": 9.72
+        },
+        {
+          "text": "\"It's",
+          "start": 9.72,
+          "end": 10.98
+        }
+      ]
+    },
+    {
+      "text": "THE LOWEST",
+      "start": 11.04,
+      "end": 11.48,
+      "words": [
+        {
+          "text": "the",
+          "start": 11.04,
+          "end": 11.12
+        },
+        {
+          "text": "lowest",
+          "start": 11.16,
+          "end": 11.48
+        }
+      ]
+    },
+    {
+      "text": "RANKED ONE.",
+      "start": 11.56,
+      "end": 12.1,
+      "words": [
+        {
+          "text": "ranked",
+          "start": 11.56,
+          "end": 11.82
+        },
+        {
+          "text": "one.",
+          "start": 11.94,
+          "end": 12.1
+        }
+      ]
+    },
+    {
+      "text": "SHOULDN'T BE",
+      "start": 12.34,
+      "end": 12.68,
+      "words": [
+        {
+          "text": "Shouldn't",
+          "start": 12.34,
+          "end": 12.54
+        },
+        {
+          "text": "be",
+          "start": 12.58,
+          "end": 12.68
+        }
+      ]
+    },
+    {
+      "text": "TOO DIFFICULT.",
+      "start": 12.74,
+      "end": 13.36,
+      "words": [
+        {
+          "text": "too",
+          "start": 12.74,
+          "end": 12.86
+        },
+        {
+          "text": "difficult.",
+          "start": 12.92,
+          "end": 13.36
+        }
+      ]
+    },
+    {
+      "text": "YOU NEED",
+      "start": 13.92,
+      "end": 14.12,
+      "words": [
+        {
+          "text": "You",
+          "start": 13.92,
+          "end": 13.98
+        },
+        {
+          "text": "need",
+          "start": 14.0,
+          "end": 14.12
+        }
+      ]
+    },
+    {
+      "text": "TO DEVELOP",
+      "start": 14.14,
+      "end": 14.64,
+      "words": [
+        {
+          "text": "to",
+          "start": 14.14,
+          "end": 14.22
+        },
+        {
+          "text": "develop",
+          "start": 14.26,
+          "end": 14.64
+        }
+      ]
+    },
+    {
+      "text": "REAL COMBAT",
+      "start": 14.82,
+      "end": 15.56,
+      "words": [
+        {
+          "text": "real",
+          "start": 14.82,
+          "end": 15.08
+        },
+        {
+          "text": "combat",
+          "start": 15.16,
+          "end": 15.56
+        }
+      ]
+    },
+    {
+      "text": "INSTINCTS.\" ELENTE",
+      "start": 15.62,
+      "end": 17.48,
+      "words": [
+        {
+          "text": "instincts.\"",
+          "start": 15.62,
+          "end": 16.16
+        },
+        {
+          "text": "Elente",
+          "start": 17.08,
+          "end": 17.48
+        }
+      ]
+    },
+    {
+      "text": "IS SCARED,",
+      "start": 17.54,
+      "end": 18.18,
+      "words": [
+        {
+          "text": "is",
+          "start": 17.54,
+          "end": 17.66
+        },
+        {
+          "text": "scared,",
+          "start": 17.76,
+          "end": 18.18
+        }
+      ]
+    },
+    {
+      "text": "BUT DEREK",
+      "start": 18.36,
+      "end": 18.84,
+      "words": [
+        {
+          "text": "but",
+          "start": 18.36,
+          "end": 18.48
+        },
+        {
+          "text": "Derek",
+          "start": 18.54,
+          "end": 18.84
+        }
+      ]
+    },
+    {
+      "text": "REMINDS HER,",
+      "start": 18.88,
+      "end": 19.46,
+      "words": [
+        {
+          "text": "reminds",
+          "start": 18.88,
+          "end": 19.3
+        },
+        {
+          "text": "her,",
+          "start": 19.34,
+          "end": 19.46
+        }
+      ]
+    },
+    {
+      "text": "\"THE SPAR",
+      "start": 19.78,
+      "end": 20.3,
+      "words": [
+        {
+          "text": "\"The",
+          "start": 19.78,
+          "end": 19.9
+        },
+        {
+          "text": "spar",
+          "start": 20.0,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "text": "IS ONLY",
+      "start": 20.34,
+      "end": 20.76,
+      "words": [
+        {
+          "text": "is",
+          "start": 20.34,
+          "end": 20.44
+        },
+        {
+          "text": "only",
+          "start": 20.5,
+          "end": 20.76
+        }
+      ]
+    },
+    {
+      "text": "DAYS AWAY.",
+      "start": 20.82,
+      "end": 21.54,
+      "words": [
+        {
+          "text": "days",
+          "start": 20.82,
+          "end": 21.06
+        },
+        {
+          "text": "away.",
+          "start": 21.12,
+          "end": 21.54
+        }
+      ]
+    },
+    {
+      "text": "WHEN TIME",
+      "start": 22.12,
+      "end": 22.58,
+      "words": [
+        {
+          "text": "When",
+          "start": 22.12,
+          "end": 22.26
+        },
+        {
+          "text": "time",
+          "start": 22.34,
+          "end": 22.58
+        }
+      ]
+    },
+    {
+      "text": "IS THIS",
+      "start": 22.64,
+      "end": 23.0,
+      "words": [
+        {
+          "text": "is",
+          "start": 22.64,
+          "end": 22.76
+        },
+        {
+          "text": "this",
+          "start": 22.82,
+          "end": 23.0
+        }
+      ]
+    },
+    {
+      "text": "SHORT, THIS",
+      "start": 23.06,
+      "end": 23.8,
+      "words": [
+        {
+          "text": "short,",
+          "start": 23.06,
+          "end": 23.38
+        },
+        {
+          "text": "this",
+          "start": 23.64,
+          "end": 23.8
+        }
+      ]
+    },
+    {
+      "text": "IS THE",
+      "start": 23.86,
+      "end": 24.18,
+      "words": [
+        {
+          "text": "is",
+          "start": 23.86,
+          "end": 23.96
+        },
+        {
+          "text": "the",
+          "start": 24.02,
+          "end": 24.18
+        }
+      ]
+    },
+    {
+      "text": "BEST METHOD",
+      "start": 24.22,
+      "end": 24.86,
+      "words": [
+        {
+          "text": "best",
+          "start": 24.22,
+          "end": 24.5
+        },
+        {
+          "text": "method",
+          "start": 24.56,
+          "end": 24.86
+        }
+      ]
+    },
+    {
+      "text": "THERE IS.\"",
+      "start": 24.9,
+      "end": 25.42,
+      "words": [
+        {
+          "text": "there",
+          "start": 24.9,
+          "end": 25.08
+        },
+        {
+          "text": "is.\"",
+          "start": 25.16,
+          "end": 25.42
+        }
+      ]
+    },
+    {
+      "text": "THEY ENTER",
+      "start": 26.32,
+      "end": 26.68,
+      "words": [
+        {
+          "text": "They",
+          "start": 26.32,
+          "end": 26.4
+        },
+        {
+          "text": "enter",
+          "start": 26.48,
+          "end": 26.68
+        }
+      ]
+    },
+    {
+      "text": "THE LABYRINTH.",
+      "start": 26.72,
+      "end": 27.32,
+      "words": [
+        {
+          "text": "the",
+          "start": 26.72,
+          "end": 26.8
+        },
+        {
+          "text": "labyrinth.",
+          "start": 26.86,
+          "end": 27.32
+        }
+      ]
+    },
+    {
+      "text": "ELENTE IS",
+      "start": 27.9,
+      "end": 28.5,
+      "words": [
+        {
+          "text": "Elente",
+          "start": 27.9,
+          "end": 28.34
+        },
+        {
+          "text": "is",
+          "start": 28.4,
+          "end": 28.5
+        }
+      ]
+    },
+    {
+      "text": "DISGUSTED BY",
+      "start": 28.56,
+      "end": 29.34,
+      "words": [
+        {
+          "text": "disgusted",
+          "start": 28.56,
+          "end": 29.2
+        },
+        {
+          "text": "by",
+          "start": 29.24,
+          "end": 29.34
+        }
+      ]
+    },
+    {
+      "text": "THE SURROUNDINGS.",
+      "start": 29.38,
+      "end": 30.12,
+      "words": [
+        {
+          "text": "the",
+          "start": 29.38,
+          "end": 29.46
+        },
+        {
+          "text": "surroundings.",
+          "start": 29.52,
+          "end": 30.12
+        }
+      ]
+    },
+    {
+      "text": "DEREK TELLS",
+      "start": 30.72,
+      "end": 31.3,
+      "words": [
+        {
+          "text": "Derek",
+          "start": 30.72,
+          "end": 31.04
+        },
+        {
+          "text": "tells",
+          "start": 31.1,
+          "end": 31.3
+        }
+      ]
+    },
+    {
+      "text": "HER TO",
+      "start": 31.32,
+      "end": 31.54,
+      "words": [
+        {
+          "text": "her",
+          "start": 31.32,
+          "end": 31.42
+        },
+        {
+          "text": "to",
+          "start": 31.44,
+          "end": 31.54
+        }
+      ]
+    },
+    {
+      "text": "STAY ALERT.",
+      "start": 31.62,
+      "end": 32.259,
+      "words": [
+        {
+          "text": "stay",
+          "start": 31.62,
+          "end": 31.8
+        },
+        {
+          "text": "alert.",
+          "start": 31.86,
+          "end": 32.259
+        }
+      ]
+    },
+    {
+      "text": "SEVERAL GOBLINS",
+      "start": 32.98,
+      "end": 33.76,
+      "words": [
+        {
+          "text": "Several",
+          "start": 32.98,
+          "end": 33.3
+        },
+        {
+          "text": "goblins",
+          "start": 33.34,
+          "end": 33.76
+        }
+      ]
+    },
+    {
+      "text": "APPEAR AHEAD",
+      "start": 33.82,
+      "end": 34.52,
+      "words": [
+        {
+          "text": "appear",
+          "start": 33.82,
+          "end": 34.1
+        },
+        {
+          "text": "ahead",
+          "start": 34.16,
+          "end": 34.52
+        }
+      ]
+    },
+    {
+      "text": "ALONG WITH",
+      "start": 34.88,
+      "end": 35.44,
+      "words": [
+        {
+          "text": "along",
+          "start": 34.88,
+          "end": 35.28
+        },
+        {
+          "text": "with",
+          "start": 35.3,
+          "end": 35.44
+        }
+      ]
+    },
+    {
+      "text": "SOMETHING BIGGER,",
+      "start": 35.5,
+      "end": 36.38,
+      "words": [
+        {
+          "text": "something",
+          "start": 35.5,
+          "end": 35.92
+        },
+        {
+          "text": "bigger,",
+          "start": 35.98,
+          "end": 36.38
+        }
+      ]
+    },
+    {
+      "text": "AN OGRE.",
+      "start": 36.9,
+      "end": 37.64,
+      "words": [
+        {
+          "text": "an",
+          "start": 36.9,
+          "end": 37.08
+        },
+        {
+          "text": "ogre.",
+          "start": 37.22,
+          "end": 37.64
+        }
+      ]
+    },
+    {
+      "text": "THE BIG",
+      "start": 38.3,
+      "end": 38.6,
+      "words": [
+        {
+          "text": "The",
+          "start": 38.3,
+          "end": 38.4
+        },
+        {
+          "text": "big",
+          "start": 38.44,
+          "end": 38.6
+        }
+      ]
+    },
+    {
+      "text": "GUY TAKES",
+      "start": 38.66,
+      "end": 39.16,
+      "words": [
+        {
+          "text": "guy",
+          "start": 38.66,
+          "end": 38.86
+        },
+        {
+          "text": "takes",
+          "start": 38.94,
+          "end": 39.16
+        }
+      ]
+    },
+    {
+      "text": "THE OGRE.",
+      "start": 39.2,
+      "end": 39.66,
+      "words": [
+        {
+          "text": "the",
+          "start": 39.2,
+          "end": 39.28
+        },
+        {
+          "text": "ogre.",
+          "start": 39.38,
+          "end": 39.66
+        }
+      ]
+    },
+    {
+      "text": "DEREK AND",
+      "start": 39.98,
+      "end": 40.4,
+      "words": [
+        {
+          "text": "Derek",
+          "start": 39.98,
+          "end": 40.3
+        },
+        {
+          "text": "and",
+          "start": 40.34,
+          "end": 40.4
+        }
+      ]
+    },
+    {
+      "text": "THE OTHER",
+      "start": 40.44,
+      "end": 40.76,
+      "words": [
+        {
+          "text": "the",
+          "start": 40.44,
+          "end": 40.52
+        },
+        {
+          "text": "other",
+          "start": 40.58,
+          "end": 40.76
+        }
+      ]
+    },
+    {
+      "text": "GIRL HANDLE",
+      "start": 40.82,
+      "end": 41.36,
+      "words": [
+        {
+          "text": "girl",
+          "start": 40.82,
+          "end": 41.08
+        },
+        {
+          "text": "handle",
+          "start": 41.14,
+          "end": 41.36
+        }
+      ]
+    },
+    {
+      "text": "THE GOBLINS.",
+      "start": 41.4,
+      "end": 42.04,
+      "words": [
+        {
+          "text": "the",
+          "start": 41.4,
+          "end": 41.48
+        },
+        {
+          "text": "goblins.",
+          "start": 41.54,
+          "end": 42.04
+        }
+      ]
+    },
+    {
+      "text": "MULTIPLE PAIRS",
+      "start": 43.02,
+      "end": 43.84,
+      "words": [
+        {
+          "text": "Multiple",
+          "start": 43.02,
+          "end": 43.46
+        },
+        {
+          "text": "pairs",
+          "start": 43.54,
+          "end": 43.84
+        }
+      ]
+    },
+    {
+      "text": "OF EYES",
+      "start": 43.88,
+      "end": 44.4,
+      "words": [
+        {
+          "text": "of",
+          "start": 43.88,
+          "end": 43.96
+        },
+        {
+          "text": "eyes",
+          "start": 44.06,
+          "end": 44.4
+        }
+      ]
+    },
+    {
+      "text": "GLOW IN",
+      "start": 44.46,
+      "end": 44.92,
+      "words": [
+        {
+          "text": "glow",
+          "start": 44.46,
+          "end": 44.8
+        },
+        {
+          "text": "in",
+          "start": 44.86,
+          "end": 44.92
+        }
+      ]
+    },
+    {
+      "text": "THE DARK.",
+      "start": 44.96,
+      "end": 45.44,
+      "words": [
+        {
+          "text": "the",
+          "start": 44.96,
+          "end": 45.04
+        },
+        {
+          "text": "dark.",
+          "start": 45.1,
+          "end": 45.44
+        }
+      ]
+    },
+    {
+      "text": "\"TH- THEY'RE",
+      "start": 45.44,
+      "end": 46.92,
+      "words": [
+        {
+          "text": "\"Th-",
+          "start": 45.44,
+          "end": 46.28
+        },
+        {
+          "text": "they're",
+          "start": 46.7,
+          "end": 46.92
+        }
+      ]
+    },
+    {
+      "text": "REAL MONSTERS.\"",
+      "start": 47.0,
+      "end": 47.98,
+      "words": [
+        {
+          "text": "real",
+          "start": 47.0,
+          "end": 47.26
+        },
+        {
+          "text": "monsters.\"",
+          "start": 47.34,
+          "end": 47.98
+        }
+      ]
+    },
+    {
+      "text": "THE GOBLINS",
+      "start": 48.84,
+      "end": 49.5,
+      "words": [
+        {
+          "text": "The",
+          "start": 48.84,
+          "end": 48.94
+        },
+        {
+          "text": "goblins",
+          "start": 49.0,
+          "end": 49.5
+        }
+      ]
+    },
+    {
+      "text": "CHARGE. DEREK",
+      "start": 49.58,
+      "end": 51.0,
+      "words": [
+        {
+          "text": "charge.",
+          "start": 49.58,
+          "end": 50.14
+        },
+        {
+          "text": "Derek",
+          "start": 50.7,
+          "end": 51.0
+        }
+      ]
+    },
+    {
+      "text": "TAKES A",
+      "start": 51.04,
+      "end": 51.3,
+      "words": [
+        {
+          "text": "takes",
+          "start": 51.04,
+          "end": 51.2
+        },
+        {
+          "text": "a",
+          "start": 51.26,
+          "end": 51.3
+        }
+      ]
+    },
+    {
+      "text": "STEP BACK.",
+      "start": 51.36,
+      "end": 51.96,
+      "words": [
+        {
+          "text": "step",
+          "start": 51.36,
+          "end": 51.58
+        },
+        {
+          "text": "back.",
+          "start": 51.64,
+          "end": 51.96
+        }
+      ]
+    },
+    {
+      "text": "ELENTE IS",
+      "start": 52.46,
+      "end": 53.08,
+      "words": [
+        {
+          "text": "Elente",
+          "start": 52.46,
+          "end": 52.94
+        },
+        {
+          "text": "is",
+          "start": 53.0,
+          "end": 53.08
+        }
+      ]
+    },
+    {
+      "text": "STILL FROZEN",
+      "start": 53.16,
+      "end": 53.94,
+      "words": [
+        {
+          "text": "still",
+          "start": 53.16,
+          "end": 53.42
+        },
+        {
+          "text": "frozen",
+          "start": 53.5,
+          "end": 53.94
+        }
+      ]
+    },
+    {
+      "text": "IN HORROR.",
+      "start": 53.98,
+      "end": 54.6,
+      "words": [
+        {
+          "text": "in",
+          "start": 53.98,
+          "end": 54.08
+        },
+        {
+          "text": "horror.",
+          "start": 54.16,
+          "end": 54.6
+        }
+      ]
+    },
+    {
+      "text": "DEREK TAKES",
+      "start": 55.42,
+      "end": 55.96,
+      "words": [
+        {
+          "text": "Derek",
+          "start": 55.42,
+          "end": 55.72
+        },
+        {
+          "text": "takes",
+          "start": 55.78,
+          "end": 55.96
+        }
+      ]
+    },
+    {
+      "text": "THE FRONT",
+      "start": 56.0,
+      "end": 56.34,
+      "words": [
+        {
+          "text": "the",
+          "start": 56.0,
+          "end": 56.08
+        },
+        {
+          "text": "front",
+          "start": 56.14,
+          "end": 56.34
+        }
+      ]
+    },
+    {
+      "text": "LINE, THE",
+      "start": 56.4,
+      "end": 57.04,
+      "words": [
+        {
+          "text": "line,",
+          "start": 56.4,
+          "end": 56.72
+        },
+        {
+          "text": "the",
+          "start": 56.92,
+          "end": 57.04
+        }
+      ]
+    },
+    {
+      "text": "GIRL COVERING",
+      "start": 57.08,
+      "end": 57.82,
+      "words": [
+        {
+          "text": "girl",
+          "start": 57.08,
+          "end": 57.4
+        },
+        {
+          "text": "covering",
+          "start": 57.48,
+          "end": 57.82
+        }
+      ]
+    },
+    {
+      "text": "FROM BEHIND.",
+      "start": 57.86,
+      "end": 58.56,
+      "words": [
+        {
+          "text": "from",
+          "start": 57.86,
+          "end": 57.98
+        },
+        {
+          "text": "behind.",
+          "start": 58.0,
+          "end": 58.56
+        }
+      ]
+    },
+    {
+      "text": "DEREK CHARGES",
+      "start": 59.24,
+      "end": 60.06,
+      "words": [
+        {
+          "text": "Derek",
+          "start": 59.24,
+          "end": 59.58
+        },
+        {
+          "text": "charges",
+          "start": 59.64,
+          "end": 60.06
+        }
+      ]
+    },
+    {
+      "text": "IN. SHE",
+      "start": 60.16,
+      "end": 60.88,
+      "words": [
+        {
+          "text": "in.",
+          "start": 60.16,
+          "end": 60.36
+        },
+        {
+          "text": "She",
+          "start": 60.72,
+          "end": 60.88
+        }
+      ]
+    },
+    {
+      "text": "FIRES HER",
+      "start": 60.96,
+      "end": 61.44,
+      "words": [
+        {
+          "text": "fires",
+          "start": 60.96,
+          "end": 61.26
+        },
+        {
+          "text": "her",
+          "start": 61.3,
+          "end": 61.44
+        }
+      ]
+    },
+    {
+      "text": "BOW TAKING",
+      "start": 61.5,
+      "end": 62.14,
+      "words": [
+        {
+          "text": "bow",
+          "start": 61.5,
+          "end": 61.74
+        },
+        {
+          "text": "taking",
+          "start": 61.84,
+          "end": 62.14
+        }
+      ]
+    },
+    {
+      "text": "ONE DOWN.",
+      "start": 62.24,
+      "end": 62.82,
+      "words": [
+        {
+          "text": "one",
+          "start": 62.24,
+          "end": 62.4
+        },
+        {
+          "text": "down.",
+          "start": 62.46,
+          "end": 62.82
+        }
+      ]
+    },
+    {
+      "text": "DEREK TAKES",
+      "start": 63.36,
+      "end": 63.9,
+      "words": [
+        {
+          "text": "Derek",
+          "start": 63.36,
+          "end": 63.68
+        },
+        {
+          "text": "takes",
+          "start": 63.72,
+          "end": 63.9
+        }
+      ]
+    },
+    {
+      "text": "ANOTHER. HE",
+      "start": 63.96,
+      "end": 64.98,
+      "words": [
+        {
+          "text": "another.",
+          "start": 63.96,
+          "end": 64.379
+        },
+        {
+          "text": "He",
+          "start": 64.879,
+          "end": 64.98
+        }
+      ]
+    },
+    {
+      "text": "CASTS A",
+      "start": 65.06,
+      "end": 65.519,
+      "words": [
+        {
+          "text": "casts",
+          "start": 65.06,
+          "end": 65.4
+        },
+        {
+          "text": "a",
+          "start": 65.44,
+          "end": 65.519
+        }
+      ]
+    },
+    {
+      "text": "FIRE SPELL.",
+      "start": 65.6,
+      "end": 66.28,
+      "words": [
+        {
+          "text": "fire",
+          "start": 65.6,
+          "end": 65.9
+        },
+        {
+          "text": "spell.",
+          "start": 66.0,
+          "end": 66.28
+        }
+      ]
+    },
+    {
+      "text": "SHE READIES",
+      "start": 66.7,
+      "end": 67.18,
+      "words": [
+        {
+          "text": "She",
+          "start": 66.7,
+          "end": 66.86
+        },
+        {
+          "text": "readies",
+          "start": 66.92,
+          "end": 67.18
+        }
+      ]
+    },
+    {
+      "text": "ANOTHER SHOT",
+      "start": 67.22,
+      "end": 67.84,
+      "words": [
+        {
+          "text": "another",
+          "start": 67.22,
+          "end": 67.54
+        },
+        {
+          "text": "shot",
+          "start": 67.6,
+          "end": 67.84
+        }
+      ]
+    },
+    {
+      "text": "TAKING DOWN",
+      "start": 67.98,
+      "end": 68.6,
+      "words": [
+        {
+          "text": "taking",
+          "start": 67.98,
+          "end": 68.26
+        },
+        {
+          "text": "down",
+          "start": 68.32,
+          "end": 68.6
+        }
+      ]
+    },
+    {
+      "text": "ONE MORE.",
+      "start": 68.7,
+      "end": 69.26,
+      "words": [
+        {
+          "text": "one",
+          "start": 68.7,
+          "end": 68.84
+        },
+        {
+          "text": "more.",
+          "start": 68.9,
+          "end": 69.26
+        }
+      ]
+    },
+    {
+      "text": "ELENTE IS",
+      "start": 70.0,
+      "end": 70.66,
+      "words": [
+        {
+          "text": "Elente",
+          "start": 70.0,
+          "end": 70.48
+        },
+        {
+          "text": "is",
+          "start": 70.52,
+          "end": 70.66
+        }
+      ]
+    },
+    {
+      "text": "STILL HORRIFIED.",
+      "start": 70.78,
+      "end": 71.78,
+      "words": [
+        {
+          "text": "still",
+          "start": 70.78,
+          "end": 71.08
+        },
+        {
+          "text": "horrified.",
+          "start": 71.16,
+          "end": 71.78
+        }
+      ]
+    },
+    {
+      "text": "THE BIG",
+      "start": 72.52,
+      "end": 72.86,
+      "words": [
+        {
+          "text": "The",
+          "start": 72.52,
+          "end": 72.6
+        },
+        {
+          "text": "big",
+          "start": 72.68,
+          "end": 72.86
+        }
+      ]
+    },
+    {
+      "text": "GUY FACES",
+      "start": 72.9,
+      "end": 73.54,
+      "words": [
+        {
+          "text": "guy",
+          "start": 72.9,
+          "end": 73.14
+        },
+        {
+          "text": "faces",
+          "start": 73.22,
+          "end": 73.54
+        }
+      ]
+    },
+    {
+      "text": "THE OGRE",
+      "start": 73.6,
+      "end": 74.04,
+      "words": [
+        {
+          "text": "the",
+          "start": 73.6,
+          "end": 73.7
+        },
+        {
+          "text": "ogre",
+          "start": 73.78,
+          "end": 74.04
+        }
+      ]
+    },
+    {
+      "text": "SWINGING HIS",
+      "start": 74.3,
+      "end": 74.78,
+      "words": [
+        {
+          "text": "swinging",
+          "start": 74.3,
+          "end": 74.62
+        },
+        {
+          "text": "his",
+          "start": 74.64,
+          "end": 74.78
+        }
+      ]
+    },
+    {
+      "text": "SWORD SEVERING",
+      "start": 74.86,
+      "end": 75.9,
+      "words": [
+        {
+          "text": "sword",
+          "start": 74.86,
+          "end": 75.2
+        },
+        {
+          "text": "severing",
+          "start": 75.52,
+          "end": 75.9
+        }
+      ]
+    },
+    {
+      "text": "ONE OF",
+      "start": 75.98,
+      "end": 76.14,
+      "words": [
+        {
+          "text": "one",
+          "start": 75.98,
+          "end": 76.06
+        },
+        {
+          "text": "of",
+          "start": 76.1,
+          "end": 76.14
+        }
+      ]
+    },
+    {
+      "text": "ITS ARMS.",
+      "start": 76.18,
+      "end": 76.76,
+      "words": [
+        {
+          "text": "its",
+          "start": 76.18,
+          "end": 76.3
+        },
+        {
+          "text": "arms.",
+          "start": 76.42,
+          "end": 76.76
+        }
+      ]
+    },
+    {
+      "text": "\"THESE MONSTERS",
+      "start": 76.76,
+      "end": 78.42,
+      "words": [
+        {
+          "text": "\"These",
+          "start": 76.76,
+          "end": 77.94
+        },
+        {
+          "text": "monsters",
+          "start": 78.02,
+          "end": 78.42
+        }
+      ]
+    },
+    {
+      "text": "ARE REALLY",
+      "start": 78.46,
+      "end": 78.94,
+      "words": [
+        {
+          "text": "are",
+          "start": 78.46,
+          "end": 78.62
+        },
+        {
+          "text": "really",
+          "start": 78.68,
+          "end": 78.94
+        }
+      ]
+    },
+    {
+      "text": "TRYING TO",
+      "start": 79.0,
+      "end": 79.36,
+      "words": [
+        {
+          "text": "trying",
+          "start": 79.0,
+          "end": 79.24
+        },
+        {
+          "text": "to",
+          "start": 79.28,
+          "end": 79.36
+        }
+      ]
+    },
+    {
+      "text": "KILL ME.",
+      "start": 79.44,
+      "end": 79.9,
+      "words": [
+        {
+          "text": "kill",
+          "start": 79.44,
+          "end": 79.64
+        },
+        {
+          "text": "me.",
+          "start": 79.7,
+          "end": 79.9
+        }
+      ]
+    },
+    {
+      "text": "I COULD",
+      "start": 80.44,
+      "end": 80.64,
+      "words": [
+        {
+          "text": "I",
+          "start": 80.44,
+          "end": 80.48
+        },
+        {
+          "text": "could",
+          "start": 80.52,
+          "end": 80.64
+        }
+      ]
+    },
+    {
+      "text": "ACTUALLY DIE.\"",
+      "start": 80.72,
+      "end": 81.7,
+      "words": [
+        {
+          "text": "actually",
+          "start": 80.72,
+          "end": 81.14
+        },
+        {
+          "text": "die.\"",
+          "start": 81.2,
+          "end": 81.7
+        }
+      ]
+    },
+    {
+      "text": "DEREK SHOUTS,",
+      "start": 82.54,
+      "end": 83.26,
+      "words": [
+        {
+          "text": "Derek",
+          "start": 82.54,
+          "end": 82.84
+        },
+        {
+          "text": "shouts,",
+          "start": 82.9,
+          "end": 83.26
+        }
+      ]
+    },
+    {
+      "text": "CALLING OUT",
+      "start": 83.4,
+      "end": 83.9,
+      "words": [
+        {
+          "text": "calling",
+          "start": 83.4,
+          "end": 83.7
+        },
+        {
+          "text": "out",
+          "start": 83.78,
+          "end": 83.9
+        }
+      ]
+    },
+    {
+      "text": "TO HER.",
+      "start": 83.94,
+      "end": 84.22,
+      "words": [
+        {
+          "text": "to",
+          "start": 83.94,
+          "end": 84.04
+        },
+        {
+          "text": "her.",
+          "start": 84.08,
+          "end": 84.22
+        }
+      ]
+    },
+    {
+      "text": "ONE MONSTER",
+      "start": 84.76,
+      "end": 85.38,
+      "words": [
+        {
+          "text": "One",
+          "start": 84.76,
+          "end": 84.92
+        },
+        {
+          "text": "monster",
+          "start": 84.98,
+          "end": 85.38
+        }
+      ]
+    },
+    {
+      "text": "IS CLOSING",
+      "start": 85.42,
+      "end": 86.06,
+      "words": [
+        {
+          "text": "is",
+          "start": 85.42,
+          "end": 85.54
+        },
+        {
+          "text": "closing",
+          "start": 85.62,
+          "end": 86.06
+        }
+      ]
+    },
+    {
+      "text": "IN ON",
+      "start": 86.14,
+      "end": 86.4,
+      "words": [
+        {
+          "text": "in",
+          "start": 86.14,
+          "end": 86.26
+        },
+        {
+          "text": "on",
+          "start": 86.32,
+          "end": 86.4
+        }
+      ]
+    },
+    {
+      "text": "HER POSITION.",
+      "start": 86.44,
+      "end": 87.08,
+      "words": [
+        {
+          "text": "her",
+          "start": 86.44,
+          "end": 86.56
+        },
+        {
+          "text": "position.",
+          "start": 86.6,
+          "end": 87.08
+        }
+      ]
+    },
+    {
+      "text": "\"STAY FOCUSED.\"",
+      "start": 87.08,
+      "end": 88.84,
+      "words": [
+        {
+          "text": "\"Stay",
+          "start": 87.08,
+          "end": 88.28
+        },
+        {
+          "text": "focused.\"",
+          "start": 88.36,
+          "end": 88.84
+        }
+      ]
+    },
+    {
+      "text": "A GOBLIN",
+      "start": 89.44,
+      "end": 90.04,
+      "words": [
+        {
+          "text": "A",
+          "start": 89.44,
+          "end": 89.52
+        },
+        {
+          "text": "goblin",
+          "start": 89.58,
+          "end": 90.04
+        }
+      ]
+    },
+    {
+      "text": "CHARGES STRAIGHT",
+      "start": 90.12,
+      "end": 91.0,
+      "words": [
+        {
+          "text": "charges",
+          "start": 90.12,
+          "end": 90.58
+        },
+        {
+          "text": "straight",
+          "start": 90.7,
+          "end": 91.0
+        }
+      ]
+    },
+    {
+      "text": "AT HER.",
+      "start": 91.1,
+      "end": 91.36,
+      "words": [
+        {
+          "text": "at",
+          "start": 91.1,
+          "end": 91.2
+        },
+        {
+          "text": "her.",
+          "start": 91.22,
+          "end": 91.36
+        }
+      ]
+    },
+    {
+      "text": "\"I'M GOING",
+      "start": 91.46,
+      "end": 92.6,
+      "words": [
+        {
+          "text": "\"I'm",
+          "start": 91.46,
+          "end": 92.38
+        },
+        {
+          "text": "going",
+          "start": 92.42,
+          "end": 92.6
+        }
+      ]
+    },
+    {
+      "text": "TO DIE!\"",
+      "start": 92.64,
+      "end": 93.22,
+      "words": [
+        {
+          "text": "to",
+          "start": 92.64,
+          "end": 92.72
+        },
+        {
+          "text": "die!\"",
+          "start": 92.78,
+          "end": 93.22
+        }
+      ]
+    },
+    {
+      "text": "\"YOU NEED",
+      "start": 93.9,
+      "end": 94.26,
+      "words": [
+        {
+          "text": "\"You",
+          "start": 93.9,
+          "end": 94.0
+        },
+        {
+          "text": "need",
+          "start": 94.08,
+          "end": 94.26
+        }
+      ]
+    },
+    {
+      "text": "TO KILL",
+      "start": 94.28,
+      "end": 94.66,
+      "words": [
+        {
+          "text": "to",
+          "start": 94.28,
+          "end": 94.4
+        },
+        {
+          "text": "kill",
+          "start": 94.48,
+          "end": 94.66
+        }
+      ]
+    },
+    {
+      "text": "IT!\" THEN",
+      "start": 94.72,
+      "end": 95.86,
+      "words": [
+        {
+          "text": "it!\"",
+          "start": 94.72,
+          "end": 94.86
+        },
+        {
+          "text": "Then",
+          "start": 95.62,
+          "end": 95.86
+        }
+      ]
+    },
+    {
+      "text": "SHE REMEMBERS",
+      "start": 95.92,
+      "end": 96.62,
+      "words": [
+        {
+          "text": "she",
+          "start": 95.92,
+          "end": 96.06
+        },
+        {
+          "text": "remembers",
+          "start": 96.1,
+          "end": 96.62
+        }
+      ]
+    },
+    {
+      "text": "WHAT SHE",
+      "start": 97.3,
+      "end": 97.62,
+      "words": [
+        {
+          "text": "what",
+          "start": 97.3,
+          "end": 97.42
+        },
+        {
+          "text": "she",
+          "start": 97.48,
+          "end": 97.62
+        }
+      ]
+    },
+    {
+      "text": "SAID ABOUT",
+      "start": 97.68,
+      "end": 98.06,
+      "words": [
+        {
+          "text": "said",
+          "start": 97.68,
+          "end": 97.84
+        },
+        {
+          "text": "about",
+          "start": 97.9,
+          "end": 98.06
+        }
+      ]
+    },
+    {
+      "text": "HER OWN",
+      "start": 98.1,
+      "end": 98.54,
+      "words": [
+        {
+          "text": "her",
+          "start": 98.1,
+          "end": 98.24
+        },
+        {
+          "text": "own",
+          "start": 98.32,
+          "end": 98.54
+        }
+      ]
+    },
+    {
+      "text": "FLAWS. THE",
+      "start": 98.62,
+      "end": 100.08,
+      "words": [
+        {
+          "text": "flaws.",
+          "start": 98.62,
+          "end": 99.1
+        },
+        {
+          "text": "The",
+          "start": 99.96,
+          "end": 100.08
+        }
+      ]
+    },
+    {
+      "text": "GOBLIN LEAPS.",
+      "start": 100.14,
+      "end": 101.02,
+      "words": [
+        {
+          "text": "goblin",
+          "start": 100.14,
+          "end": 100.56
+        },
+        {
+          "text": "leaps.",
+          "start": 100.64,
+          "end": 101.02
+        }
+      ]
+    },
+    {
+      "text": "HER PAST",
+      "start": 101.48,
+      "end": 102.02,
+      "words": [
+        {
+          "text": "Her",
+          "start": 101.48,
+          "end": 101.6
+        },
+        {
+          "text": "past",
+          "start": 101.68,
+          "end": 102.02
+        }
+      ]
+    },
+    {
+      "text": "SELF, THE",
+      "start": 102.1,
+      "end": 102.74,
+      "words": [
+        {
+          "text": "self,",
+          "start": 102.1,
+          "end": 102.42
+        },
+        {
+          "text": "the",
+          "start": 102.66,
+          "end": 102.74
+        }
+      ]
+    },
+    {
+      "text": "ONE WHO",
+      "start": 102.82,
+      "end": 103.12,
+      "words": [
+        {
+          "text": "one",
+          "start": 102.82,
+          "end": 102.92
+        },
+        {
+          "text": "who",
+          "start": 102.98,
+          "end": 103.12
+        }
+      ]
+    },
+    {
+      "text": "ONLY KNEW",
+      "start": 103.22,
+      "end": 103.76,
+      "words": [
+        {
+          "text": "only",
+          "start": 103.22,
+          "end": 103.54
+        },
+        {
+          "text": "knew",
+          "start": 103.6,
+          "end": 103.76
+        }
+      ]
+    },
+    {
+      "text": "ENVY, WHO",
+      "start": 103.84,
+      "end": 104.46,
+      "words": [
+        {
+          "text": "envy,",
+          "start": 103.84,
+          "end": 104.16
+        },
+        {
+          "text": "who",
+          "start": 104.36,
+          "end": 104.46
+        }
+      ]
+    },
+    {
+      "text": "ONLY TORE",
+      "start": 104.54,
+      "end": 105.18,
+      "words": [
+        {
+          "text": "only",
+          "start": 104.54,
+          "end": 104.82
+        },
+        {
+          "text": "tore",
+          "start": 104.9,
+          "end": 105.18
+        }
+      ]
+    },
+    {
+      "text": "OTHERS DOWN,",
+      "start": 105.26,
+      "end": 105.94,
+      "words": [
+        {
+          "text": "others",
+          "start": 105.26,
+          "end": 105.52
+        },
+        {
+          "text": "down,",
+          "start": 105.58,
+          "end": 105.94
+        }
+      ]
+    },
+    {
+      "text": "VERSUS WHO",
+      "start": 106.68,
+      "end": 107.26,
+      "words": [
+        {
+          "text": "versus",
+          "start": 106.68,
+          "end": 107.02
+        },
+        {
+          "text": "who",
+          "start": 107.1,
+          "end": 107.26
+        }
+      ]
+    },
+    {
+      "text": "SHE IS",
+      "start": 107.32,
+      "end": 107.74,
+      "words": [
+        {
+          "text": "she",
+          "start": 107.32,
+          "end": 107.46
+        },
+        {
+          "text": "is",
+          "start": 107.54,
+          "end": 107.74
+        }
+      ]
+    },
+    {
+      "text": "NOW SOMEONE",
+      "start": 107.8,
+      "end": 108.92,
+      "words": [
+        {
+          "text": "now",
+          "start": 107.8,
+          "end": 108.14
+        },
+        {
+          "text": "someone",
+          "start": 108.64,
+          "end": 108.92
+        }
+      ]
+    },
+    {
+      "text": "WHO WANTS",
+      "start": 108.96,
+      "end": 109.38,
+      "words": [
+        {
+          "text": "who",
+          "start": 108.96,
+          "end": 109.1
+        },
+        {
+          "text": "wants",
+          "start": 109.14,
+          "end": 109.38
+        }
+      ]
+    },
+    {
+      "text": "TO KILL",
+      "start": 109.42,
+      "end": 109.88,
+      "words": [
+        {
+          "text": "to",
+          "start": 109.42,
+          "end": 109.54
+        },
+        {
+          "text": "kill",
+          "start": 109.62,
+          "end": 109.88
+        }
+      ]
+    },
+    {
+      "text": "THAT OLD",
+      "start": 109.94,
+      "end": 110.32,
+      "words": [
+        {
+          "text": "that",
+          "start": 109.94,
+          "end": 110.08
+        },
+        {
+          "text": "old",
+          "start": 110.14,
+          "end": 110.32
+        }
+      ]
+    },
+    {
+      "text": "SELF AND",
+      "start": 110.4,
+      "end": 110.88,
+      "words": [
+        {
+          "text": "self",
+          "start": 110.4,
+          "end": 110.76
+        },
+        {
+          "text": "and",
+          "start": 110.8,
+          "end": 110.88
+        }
+      ]
+    },
+    {
+      "text": "BECOME STRONGER.",
+      "start": 110.92,
+      "end": 111.94,
+      "words": [
+        {
+          "text": "become",
+          "start": 110.92,
+          "end": 111.28
+        },
+        {
+          "text": "stronger.",
+          "start": 111.36,
+          "end": 111.94
+        }
+      ]
+    },
+    {
+      "text": "THE GOBLIN'S",
+      "start": 112.8,
+      "end": 113.4,
+      "words": [
+        {
+          "text": "The",
+          "start": 112.8,
+          "end": 112.9
+        },
+        {
+          "text": "goblin's",
+          "start": 112.94,
+          "end": 113.4
+        }
+      ]
+    },
+    {
+      "text": "CLAWS COME",
+      "start": 113.48,
+      "end": 114.14,
+      "words": [
+        {
+          "text": "claws",
+          "start": 113.48,
+          "end": 113.92
+        },
+        {
+          "text": "come",
+          "start": 113.96,
+          "end": 114.14
+        }
+      ]
+    },
+    {
+      "text": "DOWN. DEREK",
+      "start": 114.2,
+      "end": 115.58,
+      "words": [
+        {
+          "text": "down.",
+          "start": 114.2,
+          "end": 114.58
+        },
+        {
+          "text": "Derek",
+          "start": 115.24,
+          "end": 115.58
+        }
+      ]
+    },
+    {
+      "text": "WATCHES. THE",
+      "start": 115.64,
+      "end": 116.8,
+      "words": [
+        {
+          "text": "watches.",
+          "start": 115.64,
+          "end": 116.1
+        },
+        {
+          "text": "The",
+          "start": 116.7,
+          "end": 116.8
+        }
+      ]
+    },
+    {
+      "text": "GOBLIN IS",
+      "start": 116.86,
+      "end": 117.42,
+      "words": [
+        {
+          "text": "goblin",
+          "start": 116.86,
+          "end": 117.24
+        },
+        {
+          "text": "is",
+          "start": 117.3,
+          "end": 117.42
+        }
+      ]
+    },
+    {
+      "text": "STRUCK DOWN",
+      "start": 117.54,
+      "end": 118.2,
+      "words": [
+        {
+          "text": "struck",
+          "start": 117.54,
+          "end": 117.82
+        },
+        {
+          "text": "down",
+          "start": 117.88,
+          "end": 118.2
+        }
+      ]
+    },
+    {
+      "text": "BY AN",
+      "start": 118.24,
+      "end": 118.5,
+      "words": [
+        {
+          "text": "by",
+          "start": 118.24,
+          "end": 118.34
+        },
+        {
+          "text": "an",
+          "start": 118.4,
+          "end": 118.5
+        }
+      ]
+    },
+    {
+      "text": "ICE SPEAR.",
+      "start": 118.6,
+      "end": 119.18,
+      "words": [
+        {
+          "text": "ice",
+          "start": 118.6,
+          "end": 118.76
+        },
+        {
+          "text": "spear.",
+          "start": 118.88,
+          "end": 119.18
+        }
+      ]
+    },
+    {
+      "text": "THE BIG",
+      "start": 119.92,
+      "end": 120.26,
+      "words": [
+        {
+          "text": "The",
+          "start": 119.92,
+          "end": 120.04
+        },
+        {
+          "text": "big",
+          "start": 120.08,
+          "end": 120.26
+        }
+      ]
+    },
+    {
+      "text": "GUY NODS",
+      "start": 120.32,
+      "end": 120.98,
+      "words": [
+        {
+          "text": "guy",
+          "start": 120.32,
+          "end": 120.58
+        },
+        {
+          "text": "nods",
+          "start": 120.66,
+          "end": 120.98
+        }
+      ]
+    },
+    {
+      "text": "IN APPROVAL.",
+      "start": 121.02,
+      "end": 121.6,
+      "words": [
+        {
+          "text": "in",
+          "start": 121.02,
+          "end": 121.08
+        },
+        {
+          "text": "approval.",
+          "start": 121.12,
+          "end": 121.6
+        }
+      ]
+    },
+    {
+      "text": "SO DOES",
+      "start": 122.1,
+      "end": 122.4,
+      "words": [
+        {
+          "text": "So",
+          "start": 122.1,
+          "end": 122.24
+        },
+        {
+          "text": "does",
+          "start": 122.28,
+          "end": 122.4
+        }
+      ]
+    },
+    {
+      "text": "THE GIRL",
+      "start": 122.44,
+      "end": 122.88,
+      "words": [
+        {
+          "text": "the",
+          "start": 122.44,
+          "end": 122.52
+        },
+        {
+          "text": "girl",
+          "start": 122.58,
+          "end": 122.88
+        }
+      ]
+    },
+    {
+      "text": "TAKING DOWN",
+      "start": 123.16,
+      "end": 123.82,
+      "words": [
+        {
+          "text": "taking",
+          "start": 123.16,
+          "end": 123.46
+        },
+        {
+          "text": "down",
+          "start": 123.52,
+          "end": 123.82
+        }
+      ]
+    },
+    {
+      "text": "ONE MORE",
+      "start": 123.94,
+      "end": 124.42,
+      "words": [
+        {
+          "text": "one",
+          "start": 123.94,
+          "end": 124.08
+        },
+        {
+          "text": "more",
+          "start": 124.14,
+          "end": 124.42
+        }
+      ]
+    },
+    {
+      "text": "CATCHING HER",
+      "start": 124.66,
+      "end": 125.08,
+      "words": [
+        {
+          "text": "catching",
+          "start": 124.66,
+          "end": 124.92
+        },
+        {
+          "text": "her",
+          "start": 124.96,
+          "end": 125.08
+        }
+      ]
+    },
+    {
+      "text": "BREATH. ELENTE",
+      "start": 125.12,
+      "end": 126.88,
+      "words": [
+        {
+          "text": "breath.",
+          "start": 125.12,
+          "end": 125.48
+        },
+        {
+          "text": "Elente",
+          "start": 126.42,
+          "end": 126.88
+        }
+      ]
+    },
+    {
+      "text": "FINALLY TAKES",
+      "start": 126.94,
+      "end": 127.54,
+      "words": [
+        {
+          "text": "finally",
+          "start": 126.94,
+          "end": 127.3
+        },
+        {
+          "text": "takes",
+          "start": 127.36,
+          "end": 127.54
+        }
+      ]
+    },
+    {
+      "text": "A STEP",
+      "start": 127.6,
+      "end": 127.94,
+      "words": [
+        {
+          "text": "a",
+          "start": 127.6,
+          "end": 127.66
+        },
+        {
+          "text": "step",
+          "start": 127.72,
+          "end": 127.94
+        }
+      ]
+    },
+    {
+      "text": "FORWARD. NO,",
+      "start": 128.0,
+      "end": 129.18,
+      "words": [
+        {
+          "text": "forward.",
+          "start": 128.0,
+          "end": 128.419
+        },
+        {
+          "text": "No,",
+          "start": 128.94,
+          "end": 129.18
+        }
+      ]
+    },
+    {
+      "text": "NOT JUST",
+      "start": 129.699,
+      "end": 130.199,
+      "words": [
+        {
+          "text": "not",
+          "start": 129.699,
+          "end": 129.94
+        },
+        {
+          "text": "just",
+          "start": 130.02,
+          "end": 130.199
+        }
+      ]
+    },
+    {
+      "text": "A STEP,",
+      "start": 130.259,
+      "end": 130.68,
+      "words": [
+        {
+          "text": "a",
+          "start": 130.259,
+          "end": 130.32
+        },
+        {
+          "text": "step,",
+          "start": 130.4,
+          "end": 130.68
+        }
+      ]
+    },
+    {
+      "text": "HER FIRST",
+      "start": 131.24,
+      "end": 131.94,
+      "words": [
+        {
+          "text": "her",
+          "start": 131.24,
+          "end": 131.44
+        },
+        {
+          "text": "first",
+          "start": 131.54,
+          "end": 131.94
+        }
+      ]
+    },
+    {
+      "text": "STEP. LIKE",
+      "start": 132.04,
+      "end": 133.38,
+      "words": [
+        {
+          "text": "step.",
+          "start": 132.04,
+          "end": 132.34
+        },
+        {
+          "text": "Like",
+          "start": 133.2,
+          "end": 133.38
+        }
+      ]
+    },
+    {
+      "text": "AND FOLLOW",
+      "start": 133.42,
+      "end": 133.94,
+      "words": [
+        {
+          "text": "and",
+          "start": 133.42,
+          "end": 133.54
+        },
+        {
+          "text": "follow",
+          "start": 133.6,
+          "end": 133.94
+        }
+      ]
+    },
+    {
+      "text": "FOR PART 11.",
+      "start": 134.0,
+      "end": 134.86,
+      "words": [
+        {
+          "text": "for",
+          "start": 134.0,
+          "end": 134.14
+        },
+        {
+          "text": "part",
+          "start": 134.2,
+          "end": 134.38
+        },
+        {
+          "text": "11.",
+          "start": 134.44,
+          "end": 134.86
+        }
+      ]
+    }
+  ],
+  "caption_settings": {
+    "font": "TikTok Sans",
+    "font_size": 64,
+    "vertical_position": 960,
+    "normal_color": "FFFFFF",
+    "highlight_color": "00FFFF",
+    "outline": 5,
+    "shadow": 0,
+    "all_caps": true,
+    "grouping": "2",
+    "horizontal_alignment": "center",
+    "horizontal_margin": 50,
+    "font_weight": "Extra Bold",
+    "outline_color": "000000",
+    "shadow_color": "000000",
+    "timing_offset": 0.0,
+    "highlight_mode": "word"
+  },
+  "background_music_path": "",
+  "background_music_volume": 0.16,
+  "render_settings": {}
+}
